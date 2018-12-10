@@ -1,5 +1,6 @@
 @using System.Web.UI.WebControls
 @using CaseStudyRM.Models
+@using WebGrease.Css
 @using WebGrease.Css.Ast.MediaQuery
 @model CaseStudyRM.Models.SearchQuery
 
@@ -9,7 +10,7 @@
 }
 
 
-@using (Html.BeginForm("Create"))
+@using (Html.BeginForm("Create", "SearchQuery", FormMethod.Post))
 {
     <div class="form-group">
         @Html.LabelFor(m => m.SearchTerm)
@@ -22,22 +23,37 @@
             "Select Media",
             new {@class = "form-control"})
     </div>
-    <button type="submit" class="btn panel-primary">Search</button>
+    <button type="submit" class="btn panel-primary" >Search</button>
     
 }
-<button>get kid cudi</button>
-<p id="temp"></p>
-<script>
-    $(document).ready(function () {
-        $("button").click(function () {
-            $.get("https://itunes.apple.com/search?term=kid+cudi&entity=musicTrack&limit=10", function(response) {
-                //response
-                console.log(response);
-                $("#temp").text(response);
-                console.log(response.resultCount);
-            });
-        });
-    });
-</script>
+<hr />
+<div>
+    <table class="table">
+        <tr>
+            <th>Search</th>
+            <th>Media Type</th> 
+            <th>URL</th>
+        </tr>
+        <tr>
+            <td>@Model.SearchTerm</td>
+            <td>@Model.MediaType</td>
+            <td>50</td>
+        </tr>
+    </table>
+</div>
+@* *@
+@* <script> *@
+@*     $(document).ready(function () { *@
+@*         $("button").click(function () { *@
+@*             $.get("https://itunes.apple.com/search?term=kid+cudi&entity=musicTrack&limit=10", function(response) { *@
+@*                 //response *@
+@*                 console.log(response); *@
+@*                 $("#temp").text(response); *@
+@*                  *@
+@*                 console.log(response.resultCount); *@
+@*             }); *@
+@*         }); *@
+@*     }); *@
+@* </script> *@
 
 

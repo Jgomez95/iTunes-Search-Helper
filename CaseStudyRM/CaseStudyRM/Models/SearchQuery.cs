@@ -11,13 +11,17 @@ namespace CaseStudyRM.Models
         public int NumberOfClicks { get; set; }
         public Media MediaType { get; set; }
 
+        public SearchQuery()
+        {
+            
+        }
         // Creates the url to call on the itunes api
-        public string urlBuilder(string query, string media)
+        public string urlBuilder(string query, Media media)
         {
             string baseURL = "https://itunes.apple.com/search?term=";
-
+            string mediaString = media.ToString();
             string term = query.Replace(" ", "+");
-            string entity = changeToEntity(media);
+            string entity = changeToEntity(mediaString);
             string limit = "10";
             
             return baseURL + term + "&entity=" + entity + "&limit=" + limit;;
@@ -44,6 +48,12 @@ namespace CaseStudyRM.Models
 
     }
 
+    public class JSONSearchRoot
+    {
+        public int ResultCount { get; set; }
+        public List<SearchQuery> Results { get; set; }
+    }
+    
     public enum Media
     {
         All,

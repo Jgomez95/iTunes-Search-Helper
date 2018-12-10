@@ -21,6 +21,7 @@
         <e p="Controllers" t="Include">
           <e p="HomeController.cs" t="Include" />
           <e p="SearchQueryController.cs" t="Include" />
+          <e p="WebAPIController.cs" t="Include" />
         </e>
         <e p="favicon.ico" t="Include" />
         <e p="fonts" t="Include">
@@ -35,6 +36,7 @@
           <e p="ApiHelper.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
+          <e p="MediaModels.cs" t="Include" />
           <e p="SearchQuery.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
@@ -61,6 +63,9 @@
           <e p="modernizr-2.6.2.js" t="Include" />
           <e p="respond.js" t="Include" />
           <e p="respond.min.js" t="Include" />
+        </e>
+        <e p="ViewModels" t="Include">
+          <e p="SearchQueryViewModel.cs" t="Include" />
         </e>
         <e p="Views" t="Include">
           <e p="_ViewStart.cshtml" t="Include" />

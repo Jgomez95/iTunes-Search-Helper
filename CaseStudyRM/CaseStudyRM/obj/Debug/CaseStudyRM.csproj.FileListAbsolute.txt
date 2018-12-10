@@ -85,3 +85,4 @@
 /Users/Juan/RiderProjects/CaseStudyRM/CaseStudyRM/CaseStudyRM/bin/System.Security.Cryptography.Primitives.dll
 /Users/Juan/RiderProjects/CaseStudyRM/CaseStudyRM/CaseStudyRM/bin/System.Security.Cryptography.X509Certificates.dll
 /Users/Juan/RiderProjects/CaseStudyRM/CaseStudyRM/CaseStudyRM/bin/System.Net.Http.Formatting.xml
+/Users/Juan/RiderProjects/CaseStudyRM/CaseStudyRM/CaseStudyRM/bin/Newtonsoft.Json.pdb

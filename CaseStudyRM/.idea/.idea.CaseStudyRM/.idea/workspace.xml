@@ -5,62 +5,37 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CaseStudyRM/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CaseStudyRM/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CaseStudyRM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CaseStudyRM/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/CaseStudyRM.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/CaseStudyRM.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Global.asax" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Global.asax" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Global.asax.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Global.asax.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery-1.10.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery-1.10.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery-1.10.2.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate-vsdoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate-vsdoc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/bin/CaseStudyRM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/bin/CaseStudyRM.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/bin/CaseStudyRM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/bin/CaseStudyRM.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/bin/Newtonsoft.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/bin/Newtonsoft.Json.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/bin/Newtonsoft.Json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/bin/Newtonsoft.Json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/packages.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/Microsoft.Net.Compilers.1.3.2.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/ThirdPartyNotices.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/build/Microsoft.Net.Compilers.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CSharp.Core.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.DiaSymReader.Native.amd64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.DiaSymReader.Native.x86.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.VisualBasic.Core.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.AppContext.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.Collections.Immutable.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.Diagnostics.StackTrace.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.IO.FileSystem.Primitives.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.IO.FileSystem.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.Reflection.Metadata.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/VBCSCompiler.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/VBCSCompiler.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/csc.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/csc.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/csc.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/csi.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/csi.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/vbc.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/vbc.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/vbc.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2-vsdoc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/common.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/install.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/jquery-1.10.2.intellisense.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/uninstall.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/jQuery.1.10.2.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate-vsdoc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/jQuery.Validation.1.11.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/Newtonsoft.Json.6.0.4.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/tools/install.ps1" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,29 +54,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="asax" value="1" />
-          <entry key="cs" value="6" />
-          <entry key="cshtml" value="5" />
+          <entry key="cs" value="13" />
+          <entry key="cshtml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Asp" value="1" />
-          <entry key="C#" value="6" />
-          <entry key="Razor" value="5" />
+          <entry key="C#" value="13" />
+          <entry key="Razor" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="asax" value="10" />
-          <entry key="cs" value="2547" />
-          <entry key="cshtml" value="1297" />
+          <entry key="cs" value="3576" />
+          <entry key="cshtml" value="1467" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Asp" value="10" />
-          <entry key="C#" value="2547" />
-          <entry key="Razor" value="1297" />
+          <entry key="C#" value="3576" />
+          <entry key="Razor" value="1467" />
         </counts>
       </usages-collector>
     </session>
@@ -109,35 +84,99 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs">
+        <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
               <folding>
-                <marker date="1544398622970" expanded="true" signature="7:103" ph="..." />
-                <marker date="1544398622970" expanded="true" signature="133:1498" ph="{...}" />
-                <marker date="1544398622970" expanded="true" signature="164:1375" ph="{...}" />
-                <marker date="1544398622970" expanded="true" signature="425:742" ph="{...}" />
-                <marker date="1544398622970" expanded="true" signature="752:904" ph="/* Based on what the user selects in the media type drop down list, this function ... */" />
-                <marker date="1544398622970" expanded="true" signature="954:1368" ph="{...}" />
-                <marker date="1544398622970" expanded="true" signature="990:1358" ph="{...}" />
-                <marker date="1544398622970" expanded="true" signature="1398:1491" ph="{...}" />
+                <marker date="1544313035506" expanded="true" signature="56:492" ph="{...}" />
+                <marker date="1544313035506" expanded="true" signature="103:490" ph="{...}" />
+                <marker date="1544313035506" expanded="true" signature="145:192" ph="{...}" />
+                <marker date="1544313035506" expanded="true" signature="229:345" ph="{...}" />
+                <marker date="1544313035506" expanded="true" signature="384:484" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPIController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding>
+                <marker date="1544427009417" expanded="true" signature="6:137" ph="..." />
+                <marker date="1544427009417" expanded="true" signature="172:245" ph="{...}" />
+                <marker date="1544427009417" expanded="true" signature="221:243" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="121" selection-start-line="30" selection-start-column="121" selection-end-line="30" selection-end-column="121" />
+              <folding>
+                <marker date="1544429463901" expanded="true" signature="6:211" ph="..." />
+                <marker date="1544429463901" expanded="true" signature="248:1186" ph="{...}" />
+                <marker date="1544429463901" expanded="true" signature="277:1184" ph="{...}" />
+                <marker date="1544429463901" expanded="true" signature="364:1176" ph="{...}" />
+                <marker date="1544429463901" expanded="true" signature="828:980" ph="{...}" />
+                <marker date="1544429463901" expanded="true" signature="997:1123" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="53" column="54" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+              <folding>
+                <marker date="1544428965926" expanded="true" signature="7:103" ph="..." />
+                <marker date="1544428965926" expanded="true" signature="133:1764" ph="{...}" />
+                <marker date="1544428965926" expanded="true" signature="164:1492" ph="{...}" />
+                <marker date="1544428965926" expanded="true" signature="340:373" ph="{...}" />
+                <marker date="1544428965926" expanded="true" signature="486:859" ph="{...}" />
+                <marker date="1544428965926" expanded="true" signature="869:1021" ph="/* Based on what the user selects in the media type drop down list, this function ... */" />
+                <marker date="1544428965926" expanded="true" signature="1071:1485" ph="{...}" />
+                <marker date="1544428965926" expanded="true" signature="1107:1475" ph="{...}" />
+                <marker date="1544428965926" expanded="true" signature="1525:1637" ph="{...}" />
+                <marker date="1544428965926" expanded="true" signature="1664:1757" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/MediaModels.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <marker date="1544423383905" expanded="true" signature="43:1587" ph="{...}" />
+                <marker date="1544423383905" expanded="true" signature="74:1585" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="15">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <marker date="1544410290777" expanded="false" signature="6:210" ph="..." />
-                <marker date="1544410290777" expanded="true" signature="245:680" ph="{...}" />
-                <marker date="1544410290777" expanded="true" signature="299:678" ph="{...}" />
-                <marker date="1544410290777" expanded="true" signature="386:496" ph="{...}" />
-                <marker date="1544410290777" expanded="true" signature="580:627" ph="{...}" />
+                <marker date="1544429413777" expanded="false" signature="6:294" ph="..." />
+                <marker date="1544429413777" expanded="true" signature="329:1225" ph="{...}" />
+                <marker date="1544429413777" expanded="true" signature="383:1223" ph="{...}" />
+                <marker date="1544429413777" expanded="true" signature="470:580" ph="{...}" />
+                <marker date="1544429413777" expanded="true" signature="640:695" ph="{...}" />
+                <marker date="1544429413777" expanded="true" signature="783:1216" ph="{...}" />
+                <marker date="1544429413777" expanded="true" signature="861:1179" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -146,20 +185,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="169">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding>
-                <marker date="1544410475511" expanded="true" signature="7:94" ph="..." />
-                <marker date="1544410475511" expanded="true" signature="134:214" ph="@..." />
-                <marker date="1544410475511" expanded="true" signature="217:743" ph="@..." />
-                <marker date="1544410475511" expanded="true" signature="250:743" ph="{...}" />
-                <marker date="1544410475511" expanded="true" signature="257:409" ph="&lt;div.../&gt;" />
-                <marker date="1544410475511" expanded="true" signature="414:668" ph="&lt;div.../&gt;" />
-                <marker date="1544410475511" expanded="true" signature="488:657" ph="@{...}" />
-                <marker date="1544410475511" expanded="true" signature="792:1197" ph="&lt;script.../&gt;" />
-                <marker date="1544410475511" expanded="true" signature="835:1185" ph="{...}" />
-                <marker date="1544410475511" expanded="true" signature="875:1177" ph="{...}" />
-                <marker date="1544410475511" expanded="true" signature="990:1165" ph="{...}" />
+                <marker date="1544428783353" expanded="true" signature="7:115" ph="..." />
+                <marker date="1544428783353" expanded="true" signature="155:235" ph="@..." />
+                <marker date="1544428783353" expanded="true" signature="238:797" ph="@..." />
+                <marker date="1544428783353" expanded="true" signature="303:797" ph="{...}" />
+                <marker date="1544428783353" expanded="true" signature="310:462" ph="&lt;div.../&gt;" />
+                <marker date="1544428783353" expanded="true" signature="467:721" ph="&lt;div.../&gt;" />
+                <marker date="1544428783353" expanded="true" signature="541:710" ph="@{...}" />
+                <marker date="1544428783353" expanded="true" signature="805:1097" ph="&lt;div.../&gt;" />
+                <marker date="1544428783353" expanded="true" signature="815:1090" ph="&lt;table.../&gt;" />
+                <marker date="1544428783353" expanded="true" signature="845:949" ph="&lt;tr.../&gt;" />
+                <marker date="1544428783353" expanded="true" signature="958:1077" ph="&lt;tr.../&gt;" />
+                <marker date="1544428783353" expanded="true" signature="1098:1604" ph="@*...*@" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CaseStudyRM/ViewModels/SearchQueryViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+              <folding>
+                <marker date="1544412617714" expanded="true" signature="6:59" ph="..." />
+                <marker date="1544412617714" expanded="true" signature="93:261" ph="{...}" />
+                <marker date="1544412617714" expanded="true" signature="133:259" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -171,26 +225,34 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Models/MediaModels.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CaseStudyRM/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Global.asax" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPIController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/ViewModels/SearchQueryViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Global.asax" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs" />
-        <option value="$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs" />
         <option value="$PROJECT_DIR$/CaseStudyRM/Global.asax" />
         <option value="$PROJECT_DIR$/CaseStudyRM/Global.asax.cs" />
         <option value="$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml" />
-        <option value="$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/ViewModels/SearchQueryViewModel.cs" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Models/MediaModels.cs" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPICallController.cs" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPIController.cs" />
         <option value="$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs" />
       </list>
     </option>
   </component>
@@ -204,7 +266,7 @@
     <option name="x" value="602" />
     <option name="y" value="-1057" />
     <option name="width" value="960" />
-    <option name="height" value="989" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -231,13 +293,50 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
               <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App_Start" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
               <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="HelperClasses" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -297,12 +396,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544313122435</updated>
-      <workItem from="1544313124058" duration="30275000" />
+      <workItem from="1544313124058" duration="39637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30275000" />
+    <option name="totallyTimeSpent" value="39637000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -314,33 +413,60 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="602" y="-1057" width="960" height="989" extended-state="0" />
+    <frame x="602" y="-1057" width="960" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3006536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17755991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" weight="0.32998884" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32953367" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32998884" />
-      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32953367" />
+      <window_info anchor="bottom" id="Unit Tests" weight="0.32953367" />
       <window_info anchor="bottom" id="REST Client" weight="0.32998884" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32953367" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32998884" />
+      <window_info anchor="bottom" id="Build" weight="0.32953367" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36231884" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33782384" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
       <window_info anchor="right" id="Errors In Solution" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3006536" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" order="0" weight="0.32953367" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="2" />
+      <window_info anchor="bottom" id="REST Client" order="3" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32998884" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.33678755" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -373,14 +499,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs">
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/_ViewStart.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="65" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="65" />
+        <state>
           <folding>
-            <marker date="1544400161209" expanded="true" signature="59:189" ph="{...}" />
-            <marker date="1544400161209" expanded="true" signature="62:187" ph="/* public class ApiHelper ... */" />
+            <marker date="1544313035526" expanded="true" signature="0:50" ph="@..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="14" />
+          <folding>
+            <marker date="1544409357356" expanded="true" signature="16:1614" ph="&lt;html.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="23:324" ph="&lt;head.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="325:1606" ph="&lt;body.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="336:1276" ph="&lt;div.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="397:1265" ph="&lt;div.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="433:895" ph="&lt;div.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="477:754" ph="&lt;button.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="908:1250" ph="&lt;div.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="963:1231" ph="&lt;ul.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="1281:1461" ph="&lt;div.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="1363:1450" ph="&lt;footer.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1544313035507" expanded="true" signature="6:101" ph="..." />
+            <marker date="1544313035507" expanded="true" signature="103:289" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1544313035507" expanded="true" signature="598:806" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1544313035507" expanded="true" signature="981:1266" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPICallController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -398,82 +561,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml">
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/ViewModels/SearchQueryViewModel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="120">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
           <folding>
-            <marker date="1544409357356" expanded="true" signature="16:1614" ph="&lt;html.../&gt;" />
-            <marker date="1544409357356" expanded="true" signature="23:324" ph="&lt;head.../&gt;" />
-            <marker date="1544409357356" expanded="true" signature="325:1606" ph="&lt;body.../&gt;" />
-            <marker date="1544409357356" expanded="true" signature="336:1276" ph="&lt;div.../&gt;" />
-            <marker date="1544409357356" expanded="true" signature="397:1265" ph="&lt;div.../&gt;" />
-            <marker date="1544409357356" expanded="true" signature="433:895" ph="&lt;div.../&gt;" />
-            <marker date="1544409357356" expanded="true" signature="477:754" ph="&lt;button.../&gt;" />
-            <marker date="1544409357356" expanded="true" signature="908:1250" ph="&lt;div.../&gt;" />
-            <marker date="1544409357356" expanded="true" signature="963:1231" ph="&lt;ul.../&gt;" />
-            <marker date="1544409357356" expanded="true" signature="1281:1461" ph="&lt;div.../&gt;" />
-            <marker date="1544409357356" expanded="true" signature="1363:1450" ph="&lt;footer.../&gt;" />
+            <marker date="1544412617714" expanded="true" signature="6:59" ph="..." />
+            <marker date="1544412617714" expanded="true" signature="93:261" ph="{...}" />
+            <marker date="1544412617714" expanded="true" signature="133:259" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/_ViewStart.cshtml">
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPIController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding>
-            <marker date="1544313035526" expanded="true" signature="0:50" ph="@..." />
+            <marker date="1544427009417" expanded="true" signature="6:137" ph="..." />
+            <marker date="1544427009417" expanded="true" signature="172:245" ph="{...}" />
+            <marker date="1544427009417" expanded="true" signature="221:243" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="169">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding>
-            <marker date="1544410475511" expanded="true" signature="7:94" ph="..." />
-            <marker date="1544410475511" expanded="true" signature="134:214" ph="@..." />
-            <marker date="1544410475511" expanded="true" signature="217:743" ph="@..." />
-            <marker date="1544410475511" expanded="true" signature="250:743" ph="{...}" />
-            <marker date="1544410475511" expanded="true" signature="257:409" ph="&lt;div.../&gt;" />
-            <marker date="1544410475511" expanded="true" signature="414:668" ph="&lt;div.../&gt;" />
-            <marker date="1544410475511" expanded="true" signature="488:657" ph="@{...}" />
-            <marker date="1544410475511" expanded="true" signature="792:1197" ph="&lt;script.../&gt;" />
-            <marker date="1544410475511" expanded="true" signature="835:1185" ph="{...}" />
-            <marker date="1544410475511" expanded="true" signature="875:1177" ph="{...}" />
-            <marker date="1544410475511" expanded="true" signature="990:1165" ph="{...}" />
+            <marker date="1544428783353" expanded="true" signature="7:115" ph="..." />
+            <marker date="1544428783353" expanded="true" signature="155:235" ph="@..." />
+            <marker date="1544428783353" expanded="true" signature="238:797" ph="@..." />
+            <marker date="1544428783353" expanded="true" signature="303:797" ph="{...}" />
+            <marker date="1544428783353" expanded="true" signature="310:462" ph="&lt;div.../&gt;" />
+            <marker date="1544428783353" expanded="true" signature="467:721" ph="&lt;div.../&gt;" />
+            <marker date="1544428783353" expanded="true" signature="541:710" ph="@{...}" />
+            <marker date="1544428783353" expanded="true" signature="805:1097" ph="&lt;div.../&gt;" />
+            <marker date="1544428783353" expanded="true" signature="815:1090" ph="&lt;table.../&gt;" />
+            <marker date="1544428783353" expanded="true" signature="845:949" ph="&lt;tr.../&gt;" />
+            <marker date="1544428783353" expanded="true" signature="958:1077" ph="&lt;tr.../&gt;" />
+            <marker date="1544428783353" expanded="true" signature="1098:1604" ph="@*...*@" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/MediaModels.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <marker date="1544423383905" expanded="true" signature="43:1587" ph="{...}" />
+            <marker date="1544423383905" expanded="true" signature="74:1585" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        <state relative-caret-position="483">
+          <caret line="53" column="54" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
           <folding>
-            <marker date="1544398622970" expanded="true" signature="7:103" ph="..." />
-            <marker date="1544398622970" expanded="true" signature="133:1498" ph="{...}" />
-            <marker date="1544398622970" expanded="true" signature="164:1375" ph="{...}" />
-            <marker date="1544398622970" expanded="true" signature="425:742" ph="{...}" />
-            <marker date="1544398622970" expanded="true" signature="752:904" ph="/* Based on what the user selects in the media type drop down list, this function ... */" />
-            <marker date="1544398622970" expanded="true" signature="954:1368" ph="{...}" />
-            <marker date="1544398622970" expanded="true" signature="990:1358" ph="{...}" />
-            <marker date="1544398622970" expanded="true" signature="1398:1491" ph="{...}" />
+            <marker date="1544428965926" expanded="true" signature="7:103" ph="..." />
+            <marker date="1544428965926" expanded="true" signature="133:1764" ph="{...}" />
+            <marker date="1544428965926" expanded="true" signature="164:1492" ph="{...}" />
+            <marker date="1544428965926" expanded="true" signature="340:373" ph="{...}" />
+            <marker date="1544428965926" expanded="true" signature="486:859" ph="{...}" />
+            <marker date="1544428965926" expanded="true" signature="869:1021" ph="/* Based on what the user selects in the media type drop down list, this function ... */" />
+            <marker date="1544428965926" expanded="true" signature="1071:1485" ph="{...}" />
+            <marker date="1544428965926" expanded="true" signature="1107:1475" ph="{...}" />
+            <marker date="1544428965926" expanded="true" signature="1525:1637" ph="{...}" />
+            <marker date="1544428965926" expanded="true" signature="1664:1757" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="15">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <marker date="1544410290777" expanded="false" signature="6:210" ph="..." />
-            <marker date="1544410290777" expanded="true" signature="245:680" ph="{...}" />
-            <marker date="1544410290777" expanded="true" signature="299:678" ph="{...}" />
-            <marker date="1544410290777" expanded="true" signature="386:496" ph="{...}" />
-            <marker date="1544410290777" expanded="true" signature="580:627" ph="{...}" />
+            <marker date="1544429413777" expanded="false" signature="6:294" ph="..." />
+            <marker date="1544429413777" expanded="true" signature="329:1225" ph="{...}" />
+            <marker date="1544429413777" expanded="true" signature="383:1223" ph="{...}" />
+            <marker date="1544429413777" expanded="true" signature="470:580" ph="{...}" />
+            <marker date="1544429413777" expanded="true" signature="640:695" ph="{...}" />
+            <marker date="1544429413777" expanded="true" signature="783:1216" ph="{...}" />
+            <marker date="1544429413777" expanded="true" signature="861:1179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="121" selection-start-line="30" selection-start-column="121" selection-end-line="30" selection-end-column="121" />
+          <folding>
+            <marker date="1544429463901" expanded="true" signature="6:211" ph="..." />
+            <marker date="1544429463901" expanded="true" signature="248:1186" ph="{...}" />
+            <marker date="1544429463901" expanded="true" signature="277:1184" ph="{...}" />
+            <marker date="1544429463901" expanded="true" signature="364:1176" ph="{...}" />
+            <marker date="1544429463901" expanded="true" signature="828:980" ph="{...}" />
+            <marker date="1544429463901" expanded="true" signature="997:1123" ph="{...}" />
           </folding>
         </state>
       </provider>
