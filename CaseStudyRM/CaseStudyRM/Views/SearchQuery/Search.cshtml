@@ -1,0 +1,43 @@
+@using System.Web.UI.WebControls
+@using CaseStudyRM.Models
+@using WebGrease.Css.Ast.MediaQuery
+@model CaseStudyRM.Models.SearchQuery
+
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm("Create"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.SearchTerm)
+        @Html.TextBoxFor(m => m.SearchTerm, new {@class = "form-control"})
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.MediaType)
+        @Html.DropDownListFor(m => m.MediaType,
+            new SelectList(Enum.GetValues(typeof(Media))),
+            "Select Media",
+            new {@class = "form-control"})
+    </div>
+    <button type="submit" class="btn panel-primary">Search</button>
+    
+}
+<button>get kid cudi</button>
+<p id="temp"></p>
+<script>
+    $(document).ready(function () {
+        $("button").click(function () {
+            $.get("https://itunes.apple.com/search?term=kid+cudi&entity=musicTrack&limit=10", function(response) {
+                //response
+                console.log(response);
+                $("#temp").text(response);
+                console.log(response.resultCount);
+            });
+        });
+    });
+</script>
+
+

@@ -1,34 +1,482 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2ceddd1-aabb-4733-aa21-853d1f6524ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CaseStudyRM/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CaseStudyRM/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CaseStudyRM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CaseStudyRM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/CaseStudyRM.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/CaseStudyRM.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Global.asax" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Global.asax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Global.asax.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Global.asax.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery-1.10.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery-1.10.2.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate-vsdoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate-vsdoc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Scripts/jquery.validate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/Microsoft.Net.Compilers.1.3.2.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/ThirdPartyNotices.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/build/Microsoft.Net.Compilers.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CSharp.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.DiaSymReader.Native.amd64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.DiaSymReader.Native.x86.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.VisualBasic.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.AppContext.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.Collections.Immutable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.Diagnostics.StackTrace.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.IO.FileSystem.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.IO.FileSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/System.Reflection.Metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/VBCSCompiler.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/VBCSCompiler.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/csc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/csc.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/csc.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/csi.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/csi.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/vbc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/vbc.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Compilers.1.3.2/tools/vbc.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2-vsdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/common.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/jquery-1.10.2.intellisense.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/Tools/uninstall.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.1.10.2/jQuery.1.10.2.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate-vsdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.11.1/jQuery.Validation.1.11.1.nupkg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1097863797">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="asax" value="1" />
+          <entry key="cs" value="6" />
+          <entry key="cshtml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Asp" value="1" />
+          <entry key="C#" value="6" />
+          <entry key="Razor" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="asax" value="10" />
+          <entry key="cs" value="2547" />
+          <entry key="cshtml" value="1297" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Asp" value="10" />
+          <entry key="C#" value="2547" />
+          <entry key="Razor" value="1297" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+              <folding>
+                <marker date="1544398622970" expanded="true" signature="7:103" ph="..." />
+                <marker date="1544398622970" expanded="true" signature="133:1498" ph="{...}" />
+                <marker date="1544398622970" expanded="true" signature="164:1375" ph="{...}" />
+                <marker date="1544398622970" expanded="true" signature="425:742" ph="{...}" />
+                <marker date="1544398622970" expanded="true" signature="752:904" ph="/* Based on what the user selects in the media type drop down list, this function ... */" />
+                <marker date="1544398622970" expanded="true" signature="954:1368" ph="{...}" />
+                <marker date="1544398622970" expanded="true" signature="990:1358" ph="{...}" />
+                <marker date="1544398622970" expanded="true" signature="1398:1491" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <marker date="1544410290777" expanded="false" signature="6:210" ph="..." />
+                <marker date="1544410290777" expanded="true" signature="245:680" ph="{...}" />
+                <marker date="1544410290777" expanded="true" signature="299:678" ph="{...}" />
+                <marker date="1544410290777" expanded="true" signature="386:496" ph="{...}" />
+                <marker date="1544410290777" expanded="true" signature="580:627" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <folding>
+                <marker date="1544410475511" expanded="true" signature="7:94" ph="..." />
+                <marker date="1544410475511" expanded="true" signature="134:214" ph="@..." />
+                <marker date="1544410475511" expanded="true" signature="217:743" ph="@..." />
+                <marker date="1544410475511" expanded="true" signature="250:743" ph="{...}" />
+                <marker date="1544410475511" expanded="true" signature="257:409" ph="&lt;div.../&gt;" />
+                <marker date="1544410475511" expanded="true" signature="414:668" ph="&lt;div.../&gt;" />
+                <marker date="1544410475511" expanded="true" signature="488:657" ph="@{...}" />
+                <marker date="1544410475511" expanded="true" signature="792:1197" ph="&lt;script.../&gt;" />
+                <marker date="1544410475511" expanded="true" signature="835:1185" ph="{...}" />
+                <marker date="1544410475511" expanded="true" signature="875:1177" ph="{...}" />
+                <marker date="1544410475511" expanded="true" signature="990:1165" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Global.asax" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Global.asax" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Global.asax.cs" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="y" value="-257" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="x" value="602" />
+    <option name="y" value="-1057" />
+    <option name="width" value="960" />
+    <option name="height" value="989" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CaseStudyRM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="EXE_PATH" value="/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/xsp4.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--address=127.0.0.1 --port=5000" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CaseStudyRM" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="MONO_MANAGED_WATCHER" value="y" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CaseStudyRM/CaseStudyRM.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <browser start="true" url="http://127.0.0.1:5000/" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2ceddd1-aabb-4733-aa21-853d1f6524ad" name="Default Changelist" comment="" />
+      <created>1544313122435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544313122435</updated>
+      <workItem from="1544313124058" duration="30275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30275000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="602" y="-1057" width="960" height="989" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3006536" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32998884" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32998884" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32998884" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36231884" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Global.asax">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="98" selection-start-column="98" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Global.asax.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <marker date="1544401930812" expanded="true" signature="6:122" ph="..." />
+            <marker date="1544401930812" expanded="true" signature="145:1084" ph="{...}" />
+            <marker date="1544401930812" expanded="true" signature="197:1082" ph="{...}" />
+            <marker date="1544401930812" expanded="true" signature="246:508" ph="{...}" />
+            <marker date="1544401930812" expanded="true" signature="567:1076" ph="{...}" />
+            <marker date="1544401930812" expanded="true" signature="777:1066" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="65" />
+          <folding>
+            <marker date="1544400161209" expanded="true" signature="59:189" ph="{...}" />
+            <marker date="1544400161209" expanded="true" signature="62:187" ph="/* public class ApiHelper ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+          <folding>
+            <marker date="1544313035506" expanded="true" signature="56:492" ph="{...}" />
+            <marker date="1544313035506" expanded="true" signature="103:490" ph="{...}" />
+            <marker date="1544313035506" expanded="true" signature="145:192" ph="{...}" />
+            <marker date="1544313035506" expanded="true" signature="229:345" ph="{...}" />
+            <marker date="1544313035506" expanded="true" signature="384:484" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <marker date="1544409357356" expanded="true" signature="16:1614" ph="&lt;html.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="23:324" ph="&lt;head.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="325:1606" ph="&lt;body.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="336:1276" ph="&lt;div.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="397:1265" ph="&lt;div.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="433:895" ph="&lt;div.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="477:754" ph="&lt;button.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="908:1250" ph="&lt;div.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="963:1231" ph="&lt;ul.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="1281:1461" ph="&lt;div.../&gt;" />
+            <marker date="1544409357356" expanded="true" signature="1363:1450" ph="&lt;footer.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1544313035526" expanded="true" signature="0:50" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <marker date="1544410475511" expanded="true" signature="7:94" ph="..." />
+            <marker date="1544410475511" expanded="true" signature="134:214" ph="@..." />
+            <marker date="1544410475511" expanded="true" signature="217:743" ph="@..." />
+            <marker date="1544410475511" expanded="true" signature="250:743" ph="{...}" />
+            <marker date="1544410475511" expanded="true" signature="257:409" ph="&lt;div.../&gt;" />
+            <marker date="1544410475511" expanded="true" signature="414:668" ph="&lt;div.../&gt;" />
+            <marker date="1544410475511" expanded="true" signature="488:657" ph="@{...}" />
+            <marker date="1544410475511" expanded="true" signature="792:1197" ph="&lt;script.../&gt;" />
+            <marker date="1544410475511" expanded="true" signature="835:1185" ph="{...}" />
+            <marker date="1544410475511" expanded="true" signature="875:1177" ph="{...}" />
+            <marker date="1544410475511" expanded="true" signature="990:1165" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+          <folding>
+            <marker date="1544398622970" expanded="true" signature="7:103" ph="..." />
+            <marker date="1544398622970" expanded="true" signature="133:1498" ph="{...}" />
+            <marker date="1544398622970" expanded="true" signature="164:1375" ph="{...}" />
+            <marker date="1544398622970" expanded="true" signature="425:742" ph="{...}" />
+            <marker date="1544398622970" expanded="true" signature="752:904" ph="/* Based on what the user selects in the media type drop down list, this function ... */" />
+            <marker date="1544398622970" expanded="true" signature="954:1368" ph="{...}" />
+            <marker date="1544398622970" expanded="true" signature="990:1358" ph="{...}" />
+            <marker date="1544398622970" expanded="true" signature="1398:1491" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <marker date="1544410290777" expanded="false" signature="6:210" ph="..." />
+            <marker date="1544410290777" expanded="true" signature="245:680" ph="{...}" />
+            <marker date="1544410290777" expanded="true" signature="299:678" ph="{...}" />
+            <marker date="1544410290777" expanded="true" signature="386:496" ph="{...}" />
+            <marker date="1544410290777" expanded="true" signature="580:627" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

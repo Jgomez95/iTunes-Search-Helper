@@ -20,6 +20,7 @@
         </e>
         <e p="Controllers" t="Include">
           <e p="HomeController.cs" t="Include" />
+          <e p="SearchQueryController.cs" t="Include" />
         </e>
         <e p="favicon.ico" t="Include" />
         <e p="fonts" t="Include">
@@ -30,7 +31,12 @@
         </e>
         <e p="Global.asax" t="Include" />
         <e p="Global.asax.cs" t="Include" />
-        <e p="Models" t="Include" />
+        <e p="HelperClasses" t="Include">
+          <e p="ApiHelper.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="SearchQuery.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
         <e p="Properties" t="Include">
@@ -40,9 +46,13 @@
           <e p="bootstrap.js" t="Include" />
           <e p="bootstrap.min.js" t="Include" />
           <e p="jquery-1.10.2.intellisense.js" t="Include" />
-          <e p="jquery-1.10.2.js" t="Include" />
-          <e p="jquery-1.10.2.min.js" t="Include" />
-          <e p="jquery-1.10.2.min.map" t="Include" />
+          <e p="jquery-3.3.1-vsdoc.js" t="Include" />
+          <e p="jquery-3.3.1.js" t="Include" />
+          <e p="jquery-3.3.1.min.js" t="Include" />
+          <e p="jquery-3.3.1.min.map" t="Include" />
+          <e p="jquery-3.3.1.slim.js" t="Include" />
+          <e p="jquery-3.3.1.slim.min.js" t="Include" />
+          <e p="jquery-3.3.1.slim.min.map" t="Include" />
           <e p="jquery.validate-vsdoc.js" t="Include" />
           <e p="jquery.validate.js" t="Include" />
           <e p="jquery.validate.min.js" t="Include" />
@@ -58,6 +68,9 @@
             <e p="About.cshtml" t="Include" />
             <e p="Contact.cshtml" t="Include" />
             <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="SearchQuery" t="Include">
+            <e p="Search.cshtml" t="Include" />
           </e>
           <e p="Shared" t="Include">
             <e p="_Layout.cshtml" t="Include" />
