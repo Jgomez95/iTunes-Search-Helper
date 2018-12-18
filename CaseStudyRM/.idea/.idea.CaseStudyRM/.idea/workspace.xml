@@ -6,36 +6,17 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CaseStudyRM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CaseStudyRM/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/CaseStudyRM.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/CaseStudyRM.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPIController.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyRM/Models/MediaModels.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/bin/CaseStudyRM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/bin/CaseStudyRM.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/bin/CaseStudyRM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/bin/CaseStudyRM.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/bin/Newtonsoft.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/bin/Newtonsoft.Json.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/bin/Newtonsoft.Json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/bin/Newtonsoft.Json.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/obj/Debug/CaseStudyRM.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyRM/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyRM/packages.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/Newtonsoft.Json.6.0.4.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.6.0.4/tools/install.ps1" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,28 +36,28 @@
         <counts>
           <entry key="asax" value="1" />
           <entry key="cs" value="13" />
-          <entry key="cshtml" value="6" />
+          <entry key="cshtml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Asp" value="1" />
           <entry key="C#" value="13" />
-          <entry key="Razor" value="6" />
+          <entry key="Razor" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="asax" value="10" />
-          <entry key="cs" value="3576" />
-          <entry key="cshtml" value="1467" />
+          <entry key="cs" value="4244" />
+          <entry key="cshtml" value="1669" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Asp" value="10" />
-          <entry key="C#" value="3576" />
-          <entry key="Razor" value="1467" />
+          <entry key="C#" value="4244" />
+          <entry key="Razor" value="1669" />
         </counts>
       </usages-collector>
     </session>
@@ -100,31 +81,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPIController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-              <folding>
-                <marker date="1544427009417" expanded="true" signature="6:137" ph="..." />
-                <marker date="1544427009417" expanded="true" signature="172:245" ph="{...}" />
-                <marker date="1544427009417" expanded="true" signature="221:243" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="121" selection-start-line="30" selection-start-column="121" selection-end-line="30" selection-end-column="121" />
+            <state relative-caret-position="-277">
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
               <folding>
-                <marker date="1544429463901" expanded="true" signature="6:211" ph="..." />
-                <marker date="1544429463901" expanded="true" signature="248:1186" ph="{...}" />
-                <marker date="1544429463901" expanded="true" signature="277:1184" ph="{...}" />
-                <marker date="1544429463901" expanded="true" signature="364:1176" ph="{...}" />
-                <marker date="1544429463901" expanded="true" signature="828:980" ph="{...}" />
-                <marker date="1544429463901" expanded="true" signature="997:1123" ph="{...}" />
+                <marker date="1545022344092" expanded="true" signature="6:211" ph="..." />
+                <marker date="1545022344092" expanded="true" signature="248:2083" ph="{...}" />
+                <marker date="1545022344092" expanded="true" signature="277:2071" ph="{...}" />
+                <marker date="1545022344092" expanded="true" signature="383:1252" ph="{...}" />
+                <marker date="1545022344092" expanded="true" signature="904:1056" ph="{...}" />
+                <marker date="1545022344092" expanded="true" signature="1073:1199" ph="{...}" />
+                <marker date="1545022344092" expanded="true" signature="1320:1590" ph="{...}" />
+                <marker date="1545022344092" expanded="true" signature="1650:2064" ph="{...}" />
+                <marker date="1545022344092" expanded="true" signature="1686:2054" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -133,50 +103,49 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="53" column="54" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+            <state relative-caret-position="-495">
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
               <folding>
-                <marker date="1544428965926" expanded="true" signature="7:103" ph="..." />
-                <marker date="1544428965926" expanded="true" signature="133:1764" ph="{...}" />
-                <marker date="1544428965926" expanded="true" signature="164:1492" ph="{...}" />
-                <marker date="1544428965926" expanded="true" signature="340:373" ph="{...}" />
-                <marker date="1544428965926" expanded="true" signature="486:859" ph="{...}" />
-                <marker date="1544428965926" expanded="true" signature="869:1021" ph="/* Based on what the user selects in the media type drop down list, this function ... */" />
-                <marker date="1544428965926" expanded="true" signature="1071:1485" ph="{...}" />
-                <marker date="1544428965926" expanded="true" signature="1107:1475" ph="{...}" />
-                <marker date="1544428965926" expanded="true" signature="1525:1637" ph="{...}" />
-                <marker date="1544428965926" expanded="true" signature="1664:1757" ph="{...}" />
+                <marker date="1545021874627" expanded="true" signature="6:47" ph="..." />
+                <marker date="1545021874627" expanded="true" signature="77:3243" ph="{...}" />
+                <marker date="1545021874627" expanded="true" signature="108:1426" ph="{...}" />
+                <marker date="1545021874627" expanded="true" signature="285:344" ph="{...}" />
+                <marker date="1545021874627" expanded="true" signature="432:793" ph="{...}" />
+                <marker date="1545021874627" expanded="true" signature="803:955" ph="/* Based on what the user selects in the media type drop down list, this function ... */" />
+                <marker date="1545021874627" expanded="true" signature="1005:1419" ph="{...}" />
+                <marker date="1545021874627" expanded="true" signature="1041:1409" ph="{...}" />
+                <marker date="1545021874627" expanded="true" signature="1459:1571" ph="{...}" />
+                <marker date="1545021874627" expanded="true" signature="1610:3121" ph="{...}" />
+                <marker date="1545021874627" expanded="true" signature="3143:3236" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/MediaModels.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-              <folding>
-                <marker date="1544423383905" expanded="true" signature="43:1587" ph="{...}" />
-                <marker date="1544423383905" expanded="true" signature="74:1585" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="223">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding>
-                <marker date="1544429413777" expanded="false" signature="6:294" ph="..." />
-                <marker date="1544429413777" expanded="true" signature="329:1225" ph="{...}" />
-                <marker date="1544429413777" expanded="true" signature="383:1223" ph="{...}" />
-                <marker date="1544429413777" expanded="true" signature="470:580" ph="{...}" />
-                <marker date="1544429413777" expanded="true" signature="640:695" ph="{...}" />
-                <marker date="1544429413777" expanded="true" signature="783:1216" ph="{...}" />
-                <marker date="1544429413777" expanded="true" signature="861:1179" ph="{...}" />
+                <marker date="1545100565911" expanded="true" signature="6:294" ph="..." />
+                <marker date="1545100565911" expanded="true" signature="329:1178" ph="{...}" />
+                <marker date="1545100565911" expanded="true" signature="383:1176" ph="{...}" />
+                <marker date="1545100565911" expanded="true" signature="470:580" ph="{...}" />
+                <marker date="1545100565911" expanded="true" signature="641:1070" ph="{...}" />
+                <marker date="1545100565911" expanded="true" signature="1109:1169" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Results.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1545021606854" expanded="true" signature="40:119" ph="@..." />
               </folding>
             </state>
           </provider>
@@ -185,35 +154,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="510">
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
               <folding>
-                <marker date="1544428783353" expanded="true" signature="7:115" ph="..." />
-                <marker date="1544428783353" expanded="true" signature="155:235" ph="@..." />
-                <marker date="1544428783353" expanded="true" signature="238:797" ph="@..." />
-                <marker date="1544428783353" expanded="true" signature="303:797" ph="{...}" />
-                <marker date="1544428783353" expanded="true" signature="310:462" ph="&lt;div.../&gt;" />
-                <marker date="1544428783353" expanded="true" signature="467:721" ph="&lt;div.../&gt;" />
-                <marker date="1544428783353" expanded="true" signature="541:710" ph="@{...}" />
-                <marker date="1544428783353" expanded="true" signature="805:1097" ph="&lt;div.../&gt;" />
-                <marker date="1544428783353" expanded="true" signature="815:1090" ph="&lt;table.../&gt;" />
-                <marker date="1544428783353" expanded="true" signature="845:949" ph="&lt;tr.../&gt;" />
-                <marker date="1544428783353" expanded="true" signature="958:1077" ph="&lt;tr.../&gt;" />
-                <marker date="1544428783353" expanded="true" signature="1098:1604" ph="@*...*@" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CaseStudyRM/ViewModels/SearchQueryViewModel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-              <folding>
-                <marker date="1544412617714" expanded="true" signature="6:59" ph="..." />
-                <marker date="1544412617714" expanded="true" signature="93:261" ph="{...}" />
-                <marker date="1544412617714" expanded="true" signature="133:259" ph="{...}" />
+                <marker date="1545092784700" expanded="true" signature="64:144" ph="@..." />
+                <marker date="1545092784700" expanded="true" signature="147:720" ph="@..." />
+                <marker date="1545092784700" expanded="true" signature="211:720" ph="{...}" />
+                <marker date="1545092784700" expanded="true" signature="218:370" ph="&lt;div.../&gt;" />
+                <marker date="1545092784700" expanded="true" signature="375:630" ph="&lt;div.../&gt;" />
+                <marker date="1545092784700" expanded="true" signature="449:618" ph="@{...}" />
+                <marker date="1545092784700" expanded="true" signature="728:1020" ph="&lt;div.../&gt;" />
+                <marker date="1545092784700" expanded="true" signature="738:1013" ph="&lt;table.../&gt;" />
+                <marker date="1545092784700" expanded="true" signature="768:872" ph="&lt;tr.../&gt;" />
+                <marker date="1545092784700" expanded="true" signature="881:1000" ph="&lt;tr.../&gt;" />
               </folding>
             </state>
           </provider>
@@ -227,9 +180,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/CaseStudyRM/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Models/MediaModels.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Results.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CaseStudyRM/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPIController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CaseStudyRM/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CaseStudyRM/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
@@ -249,10 +201,11 @@
         <option value="$PROJECT_DIR$/CaseStudyRM/Models/MediaModels.cs" />
         <option value="$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPICallController.cs" />
         <option value="$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPIController.cs" />
-        <option value="$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Results.cshtml" />
         <option value="$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs" />
-        <option value="$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" />
         <option value="$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml" />
+        <option value="$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs" />
       </list>
     </option>
   </component>
@@ -262,11 +215,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="602" />
-    <option name="y" value="-1057" />
-    <option name="width" value="960" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="640" />
+    <option name="height" value="714" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -396,12 +348,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544313122435</updated>
-      <workItem from="1544313124058" duration="39637000" />
+      <workItem from="1544313124058" duration="56248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39637000" />
+    <option name="totallyTimeSpent" value="56248000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,28 +365,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="602" y="-1057" width="960" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="715" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17755991" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2374582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" weight="0.32953367" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32905295" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32953367" />
-      <window_info anchor="bottom" id="Unit Tests" weight="0.32953367" />
-      <window_info anchor="bottom" id="REST Client" weight="0.32998884" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32953367" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32744783" />
+      <window_info anchor="bottom" id="Unit Tests" weight="0.32744783" />
+      <window_info anchor="bottom" id="REST Client" weight="0.5505618" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32744783" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.31942216" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33782384" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.046548955" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32905295" />
       <window_info anchor="right" id="Errors In Solution" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -443,24 +394,24 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3006536" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.2374582" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" order="0" weight="0.32953367" />
+      <window_info anchor="bottom" id="NuGet" order="0" weight="0.32905295" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="2" />
-      <window_info anchor="bottom" id="REST Client" order="3" weight="0.32998884" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="2" weight="0.32744783" />
+      <window_info anchor="bottom" id="REST Client" order="3" weight="0.5505618" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32744783" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32998884" />
-      <window_info anchor="bottom" id="Build" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32744783" />
+      <window_info active="true" anchor="bottom" id="Build" order="8" visible="true" weight="0.31942216" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.33678755" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.046548955" />
       <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="TODO" order="15" weight="0.32905295" />
       <window_info anchor="right" id="Errors In Solution" order="0" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -547,17 +498,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/HomeController.cs">
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/MediaModels.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-          <folding>
-            <marker date="1544313035506" expanded="true" signature="56:492" ph="{...}" />
-            <marker date="1544313035506" expanded="true" signature="103:490" ph="{...}" />
-            <marker date="1544313035506" expanded="true" signature="145:192" ph="{...}" />
-            <marker date="1544313035506" expanded="true" signature="229:345" ph="{...}" />
-            <marker date="1544313035506" expanded="true" signature="384:484" ph="{...}" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPIController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -573,96 +524,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/WebAPIController.cs">
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
           <folding>
-            <marker date="1544427009417" expanded="true" signature="6:137" ph="..." />
-            <marker date="1544427009417" expanded="true" signature="172:245" ph="{...}" />
-            <marker date="1544427009417" expanded="true" signature="221:243" ph="{...}" />
+            <marker date="1544313035506" expanded="true" signature="56:492" ph="{...}" />
+            <marker date="1544313035506" expanded="true" signature="103:490" ph="{...}" />
+            <marker date="1544313035506" expanded="true" signature="145:192" ph="{...}" />
+            <marker date="1544313035506" expanded="true" signature="229:345" ph="{...}" />
+            <marker date="1544313035506" expanded="true" signature="384:484" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml">
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Results.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <marker date="1544428783353" expanded="true" signature="7:115" ph="..." />
-            <marker date="1544428783353" expanded="true" signature="155:235" ph="@..." />
-            <marker date="1544428783353" expanded="true" signature="238:797" ph="@..." />
-            <marker date="1544428783353" expanded="true" signature="303:797" ph="{...}" />
-            <marker date="1544428783353" expanded="true" signature="310:462" ph="&lt;div.../&gt;" />
-            <marker date="1544428783353" expanded="true" signature="467:721" ph="&lt;div.../&gt;" />
-            <marker date="1544428783353" expanded="true" signature="541:710" ph="@{...}" />
-            <marker date="1544428783353" expanded="true" signature="805:1097" ph="&lt;div.../&gt;" />
-            <marker date="1544428783353" expanded="true" signature="815:1090" ph="&lt;table.../&gt;" />
-            <marker date="1544428783353" expanded="true" signature="845:949" ph="&lt;tr.../&gt;" />
-            <marker date="1544428783353" expanded="true" signature="958:1077" ph="&lt;tr.../&gt;" />
-            <marker date="1544428783353" expanded="true" signature="1098:1604" ph="@*...*@" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/MediaModels.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <marker date="1544423383905" expanded="true" signature="43:1587" ph="{...}" />
-            <marker date="1544423383905" expanded="true" signature="74:1585" ph="{...}" />
+            <marker date="1545021606854" expanded="true" signature="40:119" ph="@..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CaseStudyRM/Models/SearchQuery.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="53" column="54" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+        <state relative-caret-position="-495">
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
           <folding>
-            <marker date="1544428965926" expanded="true" signature="7:103" ph="..." />
-            <marker date="1544428965926" expanded="true" signature="133:1764" ph="{...}" />
-            <marker date="1544428965926" expanded="true" signature="164:1492" ph="{...}" />
-            <marker date="1544428965926" expanded="true" signature="340:373" ph="{...}" />
-            <marker date="1544428965926" expanded="true" signature="486:859" ph="{...}" />
-            <marker date="1544428965926" expanded="true" signature="869:1021" ph="/* Based on what the user selects in the media type drop down list, this function ... */" />
-            <marker date="1544428965926" expanded="true" signature="1071:1485" ph="{...}" />
-            <marker date="1544428965926" expanded="true" signature="1107:1475" ph="{...}" />
-            <marker date="1544428965926" expanded="true" signature="1525:1637" ph="{...}" />
-            <marker date="1544428965926" expanded="true" signature="1664:1757" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <marker date="1544429413777" expanded="false" signature="6:294" ph="..." />
-            <marker date="1544429413777" expanded="true" signature="329:1225" ph="{...}" />
-            <marker date="1544429413777" expanded="true" signature="383:1223" ph="{...}" />
-            <marker date="1544429413777" expanded="true" signature="470:580" ph="{...}" />
-            <marker date="1544429413777" expanded="true" signature="640:695" ph="{...}" />
-            <marker date="1544429413777" expanded="true" signature="783:1216" ph="{...}" />
-            <marker date="1544429413777" expanded="true" signature="861:1179" ph="{...}" />
+            <marker date="1545021874627" expanded="true" signature="6:47" ph="..." />
+            <marker date="1545021874627" expanded="true" signature="77:3243" ph="{...}" />
+            <marker date="1545021874627" expanded="true" signature="108:1426" ph="{...}" />
+            <marker date="1545021874627" expanded="true" signature="285:344" ph="{...}" />
+            <marker date="1545021874627" expanded="true" signature="432:793" ph="{...}" />
+            <marker date="1545021874627" expanded="true" signature="803:955" ph="/* Based on what the user selects in the media type drop down list, this function ... */" />
+            <marker date="1545021874627" expanded="true" signature="1005:1419" ph="{...}" />
+            <marker date="1545021874627" expanded="true" signature="1041:1409" ph="{...}" />
+            <marker date="1545021874627" expanded="true" signature="1459:1571" ph="{...}" />
+            <marker date="1545021874627" expanded="true" signature="1610:3121" ph="{...}" />
+            <marker date="1545021874627" expanded="true" signature="3143:3236" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CaseStudyRM/HelperClasses/ApiHelper.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="121" selection-start-line="30" selection-start-column="121" selection-end-line="30" selection-end-column="121" />
+        <state relative-caret-position="-277">
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
           <folding>
-            <marker date="1544429463901" expanded="true" signature="6:211" ph="..." />
-            <marker date="1544429463901" expanded="true" signature="248:1186" ph="{...}" />
-            <marker date="1544429463901" expanded="true" signature="277:1184" ph="{...}" />
-            <marker date="1544429463901" expanded="true" signature="364:1176" ph="{...}" />
-            <marker date="1544429463901" expanded="true" signature="828:980" ph="{...}" />
-            <marker date="1544429463901" expanded="true" signature="997:1123" ph="{...}" />
+            <marker date="1545022344092" expanded="true" signature="6:211" ph="..." />
+            <marker date="1545022344092" expanded="true" signature="248:2083" ph="{...}" />
+            <marker date="1545022344092" expanded="true" signature="277:2071" ph="{...}" />
+            <marker date="1545022344092" expanded="true" signature="383:1252" ph="{...}" />
+            <marker date="1545022344092" expanded="true" signature="904:1056" ph="{...}" />
+            <marker date="1545022344092" expanded="true" signature="1073:1199" ph="{...}" />
+            <marker date="1545022344092" expanded="true" signature="1320:1590" ph="{...}" />
+            <marker date="1545022344092" expanded="true" signature="1650:2064" ph="{...}" />
+            <marker date="1545022344092" expanded="true" signature="1686:2054" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Views/SearchQuery/Search.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <folding>
+            <marker date="1545092784700" expanded="true" signature="64:144" ph="@..." />
+            <marker date="1545092784700" expanded="true" signature="147:720" ph="@..." />
+            <marker date="1545092784700" expanded="true" signature="211:720" ph="{...}" />
+            <marker date="1545092784700" expanded="true" signature="218:370" ph="&lt;div.../&gt;" />
+            <marker date="1545092784700" expanded="true" signature="375:630" ph="&lt;div.../&gt;" />
+            <marker date="1545092784700" expanded="true" signature="449:618" ph="@{...}" />
+            <marker date="1545092784700" expanded="true" signature="728:1020" ph="&lt;div.../&gt;" />
+            <marker date="1545092784700" expanded="true" signature="738:1013" ph="&lt;table.../&gt;" />
+            <marker date="1545092784700" expanded="true" signature="768:872" ph="&lt;tr.../&gt;" />
+            <marker date="1545092784700" expanded="true" signature="881:1000" ph="&lt;tr.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudyRM/Controllers/SearchQueryController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <marker date="1545100565911" expanded="true" signature="6:294" ph="..." />
+            <marker date="1545100565911" expanded="true" signature="329:1178" ph="{...}" />
+            <marker date="1545100565911" expanded="true" signature="383:1176" ph="{...}" />
+            <marker date="1545100565911" expanded="true" signature="470:580" ph="{...}" />
+            <marker date="1545100565911" expanded="true" signature="641:1070" ph="{...}" />
+            <marker date="1545100565911" expanded="true" signature="1109:1169" ph="{...}" />
           </folding>
         </state>
       </provider>

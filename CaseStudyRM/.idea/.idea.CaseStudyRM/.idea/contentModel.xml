@@ -21,7 +21,6 @@
         <e p="Controllers" t="Include">
           <e p="HomeController.cs" t="Include" />
           <e p="SearchQueryController.cs" t="Include" />
-          <e p="WebAPIController.cs" t="Include" />
         </e>
         <e p="favicon.ico" t="Include" />
         <e p="fonts" t="Include">
@@ -36,7 +35,6 @@
           <e p="ApiHelper.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
-          <e p="MediaModels.cs" t="Include" />
           <e p="SearchQuery.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
@@ -75,6 +73,7 @@
             <e p="Index.cshtml" t="Include" />
           </e>
           <e p="SearchQuery" t="Include">
+            <e p="Results.cshtml" t="Include" />
             <e p="Search.cshtml" t="Include" />
           </e>
           <e p="Shared" t="Include">

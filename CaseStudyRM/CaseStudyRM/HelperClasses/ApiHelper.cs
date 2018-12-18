@@ -11,15 +11,15 @@ namespace CaseStudyRM.HelperClasses
 {
     public class ApiHelper
     {
-        internal async static Task<IEnumerable<SearchQuery>> Search (string URL)
+        internal async static Task<IEnumerable<SearchQuery>> Search (string searchT, string mediaT)
         {
             var searchResults = new JSONSearchRoot();
-
+            
 
             var client = new HttpClient();
             client.BaseAddress = new Uri("https://itunes.apple.com/search?term=");
 
-            var searchURL = URL;
+            var searchURL = client.BaseAddress + URLBuilder(mediaT, searchT);
 
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
@@ -37,7 +37,35 @@ namespace CaseStudyRM.HelperClasses
 
             return searchResults.Results;
         }
-
+    
+        public static string URLBuilder(string MT, string ST )
+        {
+            string mediaString = MT;
+            string term = ST.Replace(" ", "+");
+            string entity = toEntity(mediaString);
+            string limit = "10";
+            
+            return term + "&entity=" + entity + "&limit=" + limit;;
+        }
+        
+        public static string toEntity(string type)
+        {
+            switch (type)
+            {
+                case "Music":
+                    return "musicTrack";
+                case "Movie":
+                    return "movie";
+                case "Podcast":
+                    return "podcast";
+                case "Audiobook":
+                    return "audiobook";
+                default:
+                    return "all";
+            }
+        }
 
     }
+    
+    
 }

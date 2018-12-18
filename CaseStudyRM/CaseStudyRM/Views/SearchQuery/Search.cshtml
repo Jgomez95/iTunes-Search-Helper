@@ -1,16 +1,12 @@
-@using System.Web.UI.WebControls
 @using CaseStudyRM.Models
-@using WebGrease.Css
-@using WebGrease.Css.Ast.MediaQuery
 @model CaseStudyRM.Models.SearchQuery
-
 @{
     ViewBag.Title = "Search";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 
-@using (Html.BeginForm("Create", "SearchQuery", FormMethod.Post))
+@using (Html.BeginForm("Search", "SearchQuery",FormMethod.Post))
 {
     <div class="form-group">
         @Html.LabelFor(m => m.SearchTerm)
@@ -21,9 +17,9 @@
         @Html.DropDownListFor(m => m.MediaType,
             new SelectList(Enum.GetValues(typeof(Media))),
             "Select Media",
-            new {@class = "form-control"})
+            new {@class = "form-control"}) 
     </div>
-    <button type="submit" class="btn panel-primary" >Search</button>
+    <button type="submit" class="btn panel-primary" value="submit">Search</button>
     
 }
 <hr />
@@ -41,19 +37,5 @@
         </tr>
     </table>
 </div>
-@* *@
-@* <script> *@
-@*     $(document).ready(function () { *@
-@*         $("button").click(function () { *@
-@*             $.get("https://itunes.apple.com/search?term=kid+cudi&entity=musicTrack&limit=10", function(response) { *@
-@*                 //response *@
-@*                 console.log(response); *@
-@*                 $("#temp").text(response); *@
-@*                  *@
-@*                 console.log(response.resultCount); *@
-@*             }); *@
-@*         }); *@
-@*     }); *@
-@* </script> *@
 
 

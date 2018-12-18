@@ -22,25 +22,23 @@ namespace CaseStudyRM.Controllers
             return View(searcG);
         }
     
-        [HttpGet]
-        public ActionResult Create()
-        {
-       
-            return View();
-        }
-        
         [HttpPost]
-        public ActionResult Create(SearchQuery searchQuery)
+        public ActionResult Search()
         {
-            if (!string.IsNullOrWhiteSpace(searchQuery.SearchTerm))
-            {
-                string url = searchQuery.urlBuilder(searchQuery.SearchTerm, searchQuery.MediaType);
-                var client = new ApiHelper();
-                var searchResults = ApiHelper.Search(searchQuery.SearchTerm ?? string.Empty);
-                
-               
-                
-            }
+            var searchQuery = new SearchQuery();
+            searchQuery.SearchTerm = Request.Form["SearchTerm"];
+            searchQuery.MediaType = Request.Form["MediaType"];
+            
+            var api = new ApiHelper();
+            ApiHelper.Search(searchQuery.SearchTerm, searchQuery.MediaType ?? string.Empty);
+            Console.WriteLine("Is Successful");
+            return View();
+           
+        }
+
+        public ActionResult Results()
+        {
+            
             return View();
         }
 
