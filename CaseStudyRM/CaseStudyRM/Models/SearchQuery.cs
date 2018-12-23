@@ -22,7 +22,7 @@ namespace CaseStudyRM.Models
             string entity = changeToEntity(mediaString);
             string limit = "10";
             
-            return term + "&entity=" + entity + "&limit=" + limit;;
+            return baseURL + term + "&entity=" + entity + "&limit=" + limit;;
         }
 
         // Based on what the user selects in the media type drop down list, this function
@@ -40,20 +40,13 @@ namespace CaseStudyRM.Models
                 case "Audiobook":
                     return "audiobook";
                 default:
-                    return "all";
+                    return "allTrack";
             }
         }
 
     }
 
-    public class JSONSearchRoot
-    {
-        public int ResultCount { get; set; }
-        public List<SearchQuery> Results { get; set; }
-    }
-    
-    
-    public class MediaModels
+    public class Result
     {
         public string wrapperType { get; set; }
         public string kind { get; set; }
@@ -86,7 +79,17 @@ namespace CaseStudyRM.Models
         public string currency { get; set; }
         public string primaryGenreName { get; set; }
         public bool isStreamable { get; set; }
+        public string contentAdvisoryRating { get; set; }
+        public string collectionArtistName { get; set; }
     }
+
+    public class RootObject
+    {
+        public int resultCount { get; set; }
+        public List<Result> Results { get; set; }
+    }
+    
+    
     public enum Media
     {
         All,

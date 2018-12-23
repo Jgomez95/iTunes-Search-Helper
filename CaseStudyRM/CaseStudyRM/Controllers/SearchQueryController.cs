@@ -23,16 +23,16 @@ namespace CaseStudyRM.Controllers
         }
     
         [HttpPost]
-        public ActionResult Search()
+        public ActionResult Search(SearchQuery searchQuery)
         {
-            var searchQuery = new SearchQuery();
             searchQuery.SearchTerm = Request.Form["SearchTerm"];
             searchQuery.MediaType = Request.Form["MediaType"];
             
             var api = new ApiHelper();
-            ApiHelper.Search(searchQuery.SearchTerm, searchQuery.MediaType ?? string.Empty);
-            Console.WriteLine("Is Successful");
-            return View();
+            //var searchResults = ApiHelper.Search(searchQuery.SearchTerm, searchQuery.MediaType);
+            var searchResults = ApiHelper.Search(searchQuery.MediaType, searchQuery.SearchTerm);
+            //ViewData.Add("SearchResults",searchResults.Result);
+            return View("Results", searchResults);
            
         }
 
