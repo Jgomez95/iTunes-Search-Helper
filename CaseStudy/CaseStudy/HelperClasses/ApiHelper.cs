@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
@@ -23,28 +22,32 @@ namespace CaseStudyRM.HelperClasses
 
             if (response.IsSuccessStatusCode)
             {
+                Console.WriteLine("Successful call to itunes api");
                 searchResults = JsonConvert.DeserializeObject<RootObject>(response.Content.ReadAsStringAsync().Result);
                 
             }
             else
             {
-                Console.WriteLine("{0} ({1})", (int)response.StatusCode, response.ReasonPhrase);
+                Console.WriteLine("Error in API call");
             }
 
             return searchResults.Results;
         }
     
+        // Function to correctly format the url so the api can make the call
         public static string URLBuilder(string MT, string ST )
         {
             string mediaString = MT;
             string term = ST.ToLower();
             term = ST.Replace(" ", "+");
             string entity = toEntity(mediaString);
+            // Limit to only 10 searches to minimize huge list
             string limit = "10";
             
             return term + "&entity=" + entity + "&limit=" + limit;;
         }
         
+        // Changes to the media type to the correct format for the entity
         public static string toEntity(string type)
         {
             switch (type)

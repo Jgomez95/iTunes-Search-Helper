@@ -6,7 +6,7 @@ namespace CaseStudy.Controllers
 {
     public class SearchQueryController : Controller
     {
-        // GET
+        // GET SearchQuery/Search
         public IActionResult Search()
         {
             var searchG = new SearchQuery();
@@ -21,12 +21,12 @@ namespace CaseStudy.Controllers
             
             var api = new ApiHelper();
             var searchResults = ApiHelper.Search(searchQuery.SearchTerm, searchQuery.MediaType);
-            //var searchResults = ApiHelper.Search(searchQuery.MediaType, searchQuery.SearchTerm);
-            //ViewData.Add("SearchResults",searchResults.Result);
             return View("Results", searchResults);
            
         }
 
+        // GET SearchQuery/Results
+        // Only works properly when user has searched something
         public IActionResult Results()
         {
             

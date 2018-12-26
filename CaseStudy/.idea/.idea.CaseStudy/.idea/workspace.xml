@@ -2,220 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55fdc9d0-edda-4eb9-a376-0e7d9f90b80f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/.idea/.idea.CaseStudyRM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/.idea/.idea.CaseStudyRM/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/CaseStudyRM.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/CaseStudyRM.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Controllers/SearchQueryController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Controllers/SearchQueryController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/HelperClasses/ApiHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/HelperClasses/ApiHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Models/SearchQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Models/SearchQuery.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Scripts/jquery.validate.unobtrusive.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Scripts/jquery.validate.unobtrusive.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Scripts/jquery.validate.unobtrusive.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Scripts/jquery.validate.unobtrusive.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Views/SearchQuery/Results.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Views/SearchQuery/Results.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Views/SearchQuery/Search.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Views/SearchQuery/Search.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/CaseStudyRM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/CaseStudyRM.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/CaseStudyRM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/CaseStudyRM.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.Helpers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.Helpers.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.Mvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.Mvc.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.Razor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.Razor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.WebPages.Deployment.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.WebPages.Deployment.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.WebPages.Razor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.WebPages.Razor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.WebPages.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/System.Web.WebPages.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.CodeAnalysis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/Microsoft.CodeAnalysis.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/VBCSCompiler.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/VBCSCompiler.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/VBCSCompiler.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/VBCSCompiler.exe.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/csc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/csc.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/csc.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/csc.exe.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/csi.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/csi.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/csi.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/csi.exe.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/vbc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/vbc.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/vbc.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/bin/roslyn/vbc.exe.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/obj/Debug/CaseStudyRM.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/obj/Debug/CaseStudyRM.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/obj/Debug/CaseStudyRM.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/obj/Debug/CaseStudyRM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/obj/Debug/CaseStudyRM.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/obj/Debug/CaseStudyRM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/obj/Debug/CaseStudyRM.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyRM/CaseStudyRM/packages.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.Mvc.5.2.3/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.install.xdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.uninstall.xdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.Mvc.5.2.3/Microsoft.AspNet.Mvc.5.2.3.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.Mvc.5.2.3/lib/net45/System.Web.Mvc.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.Mvc.5.2.3/lib/net45/System.Web.Mvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.Razor.3.2.3/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.Razor.3.2.3/Microsoft.AspNet.Razor.3.2.3.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.Razor.3.2.3/lib/net45/System.Web.Razor.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.Razor.3.2.3/lib/net45/System.Web.Razor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.install.xdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.uninstall.xdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/Microsoft.AspNet.WebPages.3.2.3.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.Helpers.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.Helpers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Deployment.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Razor.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Razor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/content/net45/web.config.install.xdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/content/net45/web.config.uninstall.xdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/content/net46/web.config.install.xdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/content/net46/web.config.uninstall.xdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/tools/net45/install.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/tools/net45/uninstall.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/Microsoft.Net.Compilers.2.10.0.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/ThirdPartyNotices.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/build/Microsoft.Net.Compilers.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.CSharp.Core.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.CodeAnalysis.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.DiaSymReader.Native.amd64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.DiaSymReader.Native.x86.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.Managed.Core.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.VisualBasic.Core.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/Microsoft.Win32.Primitives.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.AppContext.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Collections.Immutable.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Console.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Diagnostics.FileVersionInfo.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Diagnostics.StackTrace.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Globalization.Calendars.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.IO.Compression.ZipFile.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.IO.Compression.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.IO.FileSystem.Primitives.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.IO.FileSystem.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Net.Http.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Net.Sockets.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Reflection.Metadata.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Runtime.InteropServices.RuntimeInformation.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Security.Cryptography.Algorithms.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Security.Cryptography.Encoding.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Security.Cryptography.Primitives.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Security.Cryptography.X509Certificates.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Text.Encoding.CodePages.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Threading.Tasks.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.ValueTuple.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Xml.ReaderWriter.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Xml.XPath.XDocument.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Xml.XPath.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/System.Xml.XmlDocument.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/VBCSCompiler.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/VBCSCompiler.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/cs/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/cs/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/cs/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/csc.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/csc.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/csc.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/csi.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/csi.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/csi.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/de/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/de/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/de/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/de/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/es/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/es/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/es/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/es/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/fr/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/fr/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/fr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/it/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/it/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/it/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/it/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ja/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ja/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ja/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ko/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ko/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ko/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pl/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pl/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pl/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pt-BR/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/pt-BR/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ru/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ru/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/ru/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/tr/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/tr/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/tr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/vbc.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/vbc.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/vbc.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hans/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hans/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hant/Microsoft.Build.Tasks.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.Net.Compilers.2.10.0/tools/zh-Hant/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts/jquery.validate.unobtrusive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts/jquery.validate.unobtrusive.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Microsoft.jQuery.Unobtrusive.Validation.3.2.3.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Modernizr.2.6.2/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Modernizr.2.6.2/Content/Scripts/modernizr-2.6.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Modernizr.2.6.2/Modernizr.2.6.2.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Modernizr.2.6.2/Tools/common.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Modernizr.2.6.2/Tools/install.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CaseStudyRM/packages/Modernizr.2.6.2/Tools/uninstall.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CaseStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CaseStudy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/Controllers/SearchQueryController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/Controllers/SearchQueryController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/HelperClasses/ApiHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/HelperClasses/ApiHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/Models/SearchQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/Models/SearchQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/Views/SearchQuery/Results.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/Views/SearchQuery/Results.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/Views/SearchQuery/Search.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/Views/SearchQuery/Search.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/bin/Debug/netcoreapp2.1/CaseStudy.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/bin/Debug/netcoreapp2.1/CaseStudy.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/bin/Debug/netcoreapp2.1/CaseStudy.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/bin/Debug/netcoreapp2.1/CaseStudy.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/bin/Debug/netcoreapp2.1/CaseStudy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/bin/Debug/netcoreapp2.1/CaseStudy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/bin/Debug/netcoreapp2.1/CaseStudy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/bin/Debug/netcoreapp2.1/CaseStudy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/CaseStudy.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/CaseStudy.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/CaseStudy.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/CaseStudy.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/CaseStudy.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/CaseStudy.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/CaseStudy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/CaseStudy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/CaseStudy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/CaseStudy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/SearchQuery/Results.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/SearchQuery/Results.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/SearchQuery/Search.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/SearchQuery/Search.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -234,7 +42,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cs" value="3" />
-          <entry key="cshtml" value="4" />
+          <entry key="cshtml" value="5" />
           <entry key="css" value="1" />
         </counts>
       </usages-collector>
@@ -242,19 +50,19 @@
         <counts>
           <entry key="C#" value="3" />
           <entry key="CSS" value="1" />
-          <entry key="Razor" value="4" />
+          <entry key="Razor" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="59" />
-          <entry key="cshtml" value="72" />
+          <entry key="cs" value="604" />
+          <entry key="cshtml" value="250" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="59" />
-          <entry key="Razor" value="72" />
+          <entry key="C#" value="604" />
+          <entry key="Razor" value="250" />
         </counts>
       </usages-collector>
     </session>
@@ -264,62 +72,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CaseStudy/Models/SearchQuery.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
               <folding>
-                <marker date="1545794822255" expanded="true" signature="6:47" ph="..." />
-                <marker date="1545794822255" expanded="true" signature="75:2276" ph="{...}" />
-                <marker date="1545794822255" expanded="true" signature="106:357" ph="{...}" />
-                <marker date="1545794822255" expanded="true" signature="283:342" ph="{...}" />
-                <marker date="1545794822255" expanded="true" signature="387:2013" ph="{...}" />
-                <marker date="1545794822255" expanded="true" signature="2042:2149" ph="{...}" />
-                <marker date="1545794822255" expanded="true" signature="2181:2274" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CaseStudy/Controllers/SearchQueryController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="22" column="94" selection-start-line="22" selection-start-column="94" selection-end-line="22" selection-end-column="94" />
-              <folding>
-                <marker date="1545794087802" expanded="true" signature="6:88" ph="..." />
-                <marker date="1545794087802" expanded="true" signature="121:1082" ph="{...}" />
-                <marker date="1545794087802" expanded="true" signature="175:1080" ph="{...}" />
-                <marker date="1545794087802" expanded="true" signature="234:333" ph="{...}" />
-                <marker date="1545794087802" expanded="true" signature="422:947" ph="{...}" />
-                <marker date="1545794087802" expanded="true" signature="722:874" ph="/* var searchResults = ApiHelper.Search(searchQuery.MediaType, searchQuery.SearchTerm); ... */" />
-                <marker date="1545794087802" expanded="true" signature="987:1047" ph="{...}" />
+                <marker date="1545801408810" expanded="true" signature="6:47" ph="..." />
+                <marker date="1545801408810" expanded="true" signature="75:2371" ph="{...}" />
+                <marker date="1545801408810" expanded="true" signature="139:342" ph="{...}" />
+                <marker date="1545801408810" expanded="true" signature="268:327" ph="{...}" />
+                <marker date="1545801408810" expanded="true" signature="437:2063" ph="{...}" />
+                <marker date="1545801408810" expanded="true" signature="2092:2199" ph="{...}" />
+                <marker date="1545801408810" expanded="true" signature="2276:2369" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CaseStudy/Views/Shared/_Layout.cshtml">
+        <entry file="file://$PROJECT_DIR$/CaseStudy/Controllers/SearchQueryController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="180">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding>
-                <marker date="1545796962171" expanded="true" signature="16:3385" ph="&lt;html.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="23:850" ph="&lt;head.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="191:388" ph="&lt;environment.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="393:842" ph="&lt;environment.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="851:3377" ph="&lt;body.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="862:1938" ph="&lt;nav.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="923:1927" ph="&lt;div.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="959:1473" ph="&lt;div.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="1003:1347" ph="&lt;button.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="1486:1912" ph="&lt;div.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="1541:1893" ph="&lt;ul.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="1990:2152" ph="&lt;div.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="2072:2141" ph="&lt;footer.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="2158:2412" ph="&lt;environment.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="2417:3321" ph="&lt;environment.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="2461:2809" ph="&lt;script.../&gt;" />
-                <marker date="1545796962171" expanded="true" signature="2818:3227" ph="&lt;script.../&gt;" />
+                <marker date="1545801408806" expanded="true" signature="6:88" ph="..." />
+                <marker date="1545801408806" expanded="true" signature="121:1035" ph="{...}" />
+                <marker date="1545801408806" expanded="true" signature="175:1033" ph="{...}" />
+                <marker date="1545801408806" expanded="true" signature="253:352" ph="{...}" />
+                <marker date="1545801408806" expanded="true" signature="441:801" ph="{...}" />
+                <marker date="1545801408806" expanded="true" signature="811:901" ph="/* GET SearchQuery/Results ... */" />
+                <marker date="1545801408806" expanded="true" signature="940:1000" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -328,52 +108,63 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CaseStudy/Views/SearchQuery/Results.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state>
+              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
               <folding>
-                <marker date="1545796673366" expanded="true" signature="81:160" ph="@..." />
-                <marker date="1545796673366" expanded="true" signature="195:2211" ph="&lt;div.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="219:2204" ph="&lt;div.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="245:2193" ph="&lt;div.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="288:2178" ph="&lt;table.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="454:1097" ph="&lt;thead.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="478:1072" ph="&lt;tr.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="1114:2157" ph="@..." />
-                <marker date="1545796673366" expanded="true" signature="1171:1321" ph="{...}" />
-                <marker date="1545796673366" expanded="true" signature="1210:1303" ph="&lt;tr.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="1342:2157" ph="{...}" />
-                <marker date="1545796673366" expanded="true" signature="1443:2139" ph="{...}" />
-                <marker date="1545796673366" expanded="true" signature="1490:2117" ph="&lt;tr.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="1523:1626" ph="&lt;td.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="1655:1742" ph="&lt;td.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="1771:1862" ph="&lt;td.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="1891:1977" ph="&lt;td.../&gt;" />
-                <marker date="1545796673366" expanded="true" signature="2006:2087" ph="&lt;td.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="81:162" ph="@..." />
+                <marker date="1545801508109" expanded="true" signature="256:2053" ph="&lt;div.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="280:2046" ph="&lt;div.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="306:2035" ph="&lt;div.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="338:2020" ph="&lt;table.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="438:953" ph="&lt;thead.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="462:928" ph="&lt;tr.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="970:1999" ph="@..." />
+                <marker date="1545801508109" expanded="true" signature="1027:1177" ph="{...}" />
+                <marker date="1545801508109" expanded="true" signature="1066:1159" ph="&lt;tr.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="1198:1999" ph="{...}" />
+                <marker date="1545801508109" expanded="true" signature="1299:1981" ph="{...}" />
+                <marker date="1545801508109" expanded="true" signature="1346:1959" ph="&lt;tr.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="1379:1521" ph="&lt;td.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="1550:1671" ph="&lt;td.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="1700:1819" ph="&lt;td.../&gt;" />
+                <marker date="1545801508109" expanded="true" signature="1848:1929" ph="&lt;td.../&gt;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CaseStudy/wwwroot/lib/bootstrap/dist/css/bootstrap-darkly.css">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/CaseStudy/Views/SearchQuery/Search.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <folding>
+                <marker date="1545801108320" expanded="true" signature="60:140" ph="@..." />
+                <marker date="1545801108320" expanded="true" signature="143:716" ph="@..." />
+                <marker date="1545801108320" expanded="true" signature="207:716" ph="{...}" />
+                <marker date="1545801108320" expanded="true" signature="214:366" ph="&lt;div.../&gt;" />
+                <marker date="1545801108320" expanded="true" signature="371:626" ph="&lt;div.../&gt;" />
+                <marker date="1545801108320" expanded="true" signature="445:614" ph="@{...}" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CaseStudy/HelperClasses/ApiHelper.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+            <state relative-caret-position="15">
+              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
               <folding>
-                <marker date="1545793819548" expanded="true" signature="6:196" ph="..." />
-                <marker date="1545793819548" expanded="true" signature="233:2135" ph="{...}" />
-                <marker date="1545793819548" expanded="true" signature="262:2123" ph="{...}" />
-                <marker date="1545793819548" expanded="true" signature="363:1266" ph="{...}" />
-                <marker date="1545793819548" expanded="true" signature="906:1071" ph="{...}" />
-                <marker date="1545793819548" expanded="true" signature="1088:1213" ph="{...}" />
-                <marker date="1545793819548" expanded="true" signature="1334:1637" ph="{...}" />
-                <marker date="1545793819548" expanded="true" signature="1697:2116" ph="{...}" />
-                <marker date="1545793819548" expanded="true" signature="1733:2106" ph="{...}" />
+                <marker date="1545801492685" expanded="true" signature="6:178" ph="..." />
+                <marker date="1545801492685" expanded="true" signature="215:2358" ph="{...}" />
+                <marker date="1545801492685" expanded="true" signature="244:2346" ph="{...}" />
+                <marker date="1545801492685" expanded="true" signature="345:1275" ph="{...}" />
+                <marker date="1545801492685" expanded="true" signature="888:1121" ph="{...}" />
+                <marker date="1545801492685" expanded="true" signature="1138:1222" ph="{...}" />
+                <marker date="1545801492685" expanded="true" signature="1420:1786" ph="{...}" />
+                <marker date="1545801492685" expanded="true" signature="1920:2339" ph="{...}" />
+                <marker date="1545801492685" expanded="true" signature="1956:2329" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -397,11 +188,12 @@
       <list>
         <option value="$PROJECT_DIR$/CaseStudy/Pages/SearchQuery/Search.cshtml" />
         <option value="$PROJECT_DIR$/CaseStudy/Pages/SearchQuery/Results.cshtml" />
-        <option value="$PROJECT_DIR$/CaseStudy/HelperClasses/ApiHelper.cs" />
+        <option value="$PROJECT_DIR$/CaseStudy/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/CaseStudy/Views/SearchQuery/Search.cshtml" />
         <option value="$PROJECT_DIR$/CaseStudy/Controllers/SearchQueryController.cs" />
         <option value="$PROJECT_DIR$/CaseStudy/Models/SearchQuery.cs" />
+        <option value="$PROJECT_DIR$/CaseStudy/HelperClasses/ApiHelper.cs" />
         <option value="$PROJECT_DIR$/CaseStudy/Views/SearchQuery/Results.cshtml" />
-        <option value="$PROJECT_DIR$/CaseStudy/Views/Shared/_Layout.cshtml" />
       </list>
     </option>
   </component>
@@ -449,13 +241,7 @@
               <item name="CaseStudy" type="24d0babc:SolutionExplorerModelNode" />
               <item name="CaseStudy" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CaseStudy" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="CaseStudy" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SearchQuery" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -516,12 +302,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545791605414</updated>
-      <workItem from="1545791607049" duration="3535000" />
+      <workItem from="1545791607049" duration="6494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3535000" />
+    <option name="totallyTimeSpent" value="6494000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -537,7 +323,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29644588" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19709209" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -581,123 +367,122 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CaseStudy/Views/SearchQuery/Search.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <marker date="1545794382905" expanded="true" signature="60:140" ph="@..." />
-            <marker date="1545794382905" expanded="true" signature="143:716" ph="@..." />
-            <marker date="1545794382905" expanded="true" signature="207:716" ph="{...}" />
-            <marker date="1545794382905" expanded="true" signature="214:366" ph="&lt;div.../&gt;" />
-            <marker date="1545794382905" expanded="true" signature="371:626" ph="&lt;div.../&gt;" />
-            <marker date="1545794382905" expanded="true" signature="445:614" ph="@{...}" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/CaseStudy/wwwroot/lib/bootstrap/dist/css/bootstrap-darkly.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CaseStudy/Controllers/SearchQueryController.cs">
+    <entry file="file://$PROJECT_DIR$/CaseStudy/Views/Shared/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="22" column="94" selection-start-line="22" selection-start-column="94" selection-end-line="22" selection-end-column="94" />
+        <state relative-caret-position="247">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
           <folding>
-            <marker date="1545794087802" expanded="true" signature="6:88" ph="..." />
-            <marker date="1545794087802" expanded="true" signature="121:1082" ph="{...}" />
-            <marker date="1545794087802" expanded="true" signature="175:1080" ph="{...}" />
-            <marker date="1545794087802" expanded="true" signature="234:333" ph="{...}" />
-            <marker date="1545794087802" expanded="true" signature="422:947" ph="{...}" />
-            <marker date="1545794087802" expanded="true" signature="722:874" ph="/* var searchResults = ApiHelper.Search(searchQuery.MediaType, searchQuery.SearchTerm); ... */" />
-            <marker date="1545794087802" expanded="true" signature="987:1047" ph="{...}" />
+            <marker date="1545799691055" expanded="true" signature="16:3384" ph="&lt;html.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="23:843" ph="&lt;head.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="191:381" ph="&lt;environment.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="386:835" ph="&lt;environment.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="844:3376" ph="&lt;body.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="855:1937" ph="&lt;nav.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="916:1926" ph="&lt;div.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="952:1466" ph="&lt;div.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="996:1340" ph="&lt;button.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="1479:1911" ph="&lt;div.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="1534:1892" ph="&lt;ul.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="1989:2151" ph="&lt;div.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="2071:2140" ph="&lt;footer.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="2157:2411" ph="&lt;environment.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="2416:3320" ph="&lt;environment.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="2460:2808" ph="&lt;script.../&gt;" />
+            <marker date="1545799691055" expanded="true" signature="2817:3226" ph="&lt;script.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CaseStudy/Models/SearchQuery.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
           <folding>
-            <marker date="1545794822255" expanded="true" signature="6:47" ph="..." />
-            <marker date="1545794822255" expanded="true" signature="75:2276" ph="{...}" />
-            <marker date="1545794822255" expanded="true" signature="106:357" ph="{...}" />
-            <marker date="1545794822255" expanded="true" signature="283:342" ph="{...}" />
-            <marker date="1545794822255" expanded="true" signature="387:2013" ph="{...}" />
-            <marker date="1545794822255" expanded="true" signature="2042:2149" ph="{...}" />
-            <marker date="1545794822255" expanded="true" signature="2181:2274" ph="{...}" />
+            <marker date="1545801408810" expanded="true" signature="6:47" ph="..." />
+            <marker date="1545801408810" expanded="true" signature="75:2371" ph="{...}" />
+            <marker date="1545801408810" expanded="true" signature="139:342" ph="{...}" />
+            <marker date="1545801408810" expanded="true" signature="268:327" ph="{...}" />
+            <marker date="1545801408810" expanded="true" signature="437:2063" ph="{...}" />
+            <marker date="1545801408810" expanded="true" signature="2092:2199" ph="{...}" />
+            <marker date="1545801408810" expanded="true" signature="2276:2369" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CaseStudy/HelperClasses/ApiHelper.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        <state relative-caret-position="15">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
           <folding>
-            <marker date="1545793819548" expanded="true" signature="6:196" ph="..." />
-            <marker date="1545793819548" expanded="true" signature="233:2135" ph="{...}" />
-            <marker date="1545793819548" expanded="true" signature="262:2123" ph="{...}" />
-            <marker date="1545793819548" expanded="true" signature="363:1266" ph="{...}" />
-            <marker date="1545793819548" expanded="true" signature="906:1071" ph="{...}" />
-            <marker date="1545793819548" expanded="true" signature="1088:1213" ph="{...}" />
-            <marker date="1545793819548" expanded="true" signature="1334:1637" ph="{...}" />
-            <marker date="1545793819548" expanded="true" signature="1697:2116" ph="{...}" />
-            <marker date="1545793819548" expanded="true" signature="1733:2106" ph="{...}" />
+            <marker date="1545801492685" expanded="true" signature="6:178" ph="..." />
+            <marker date="1545801492685" expanded="true" signature="215:2358" ph="{...}" />
+            <marker date="1545801492685" expanded="true" signature="244:2346" ph="{...}" />
+            <marker date="1545801492685" expanded="true" signature="345:1275" ph="{...}" />
+            <marker date="1545801492685" expanded="true" signature="888:1121" ph="{...}" />
+            <marker date="1545801492685" expanded="true" signature="1138:1222" ph="{...}" />
+            <marker date="1545801492685" expanded="true" signature="1420:1786" ph="{...}" />
+            <marker date="1545801492685" expanded="true" signature="1920:2339" ph="{...}" />
+            <marker date="1545801492685" expanded="true" signature="1956:2329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseStudy/Views/SearchQuery/Search.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <marker date="1545801108320" expanded="true" signature="60:140" ph="@..." />
+            <marker date="1545801108320" expanded="true" signature="143:716" ph="@..." />
+            <marker date="1545801108320" expanded="true" signature="207:716" ph="{...}" />
+            <marker date="1545801108320" expanded="true" signature="214:366" ph="&lt;div.../&gt;" />
+            <marker date="1545801108320" expanded="true" signature="371:626" ph="&lt;div.../&gt;" />
+            <marker date="1545801108320" expanded="true" signature="445:614" ph="@{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CaseStudy/Views/SearchQuery/Results.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
           <folding>
-            <marker date="1545796673366" expanded="true" signature="81:160" ph="@..." />
-            <marker date="1545796673366" expanded="true" signature="195:2211" ph="&lt;div.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="219:2204" ph="&lt;div.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="245:2193" ph="&lt;div.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="288:2178" ph="&lt;table.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="454:1097" ph="&lt;thead.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="478:1072" ph="&lt;tr.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="1114:2157" ph="@..." />
-            <marker date="1545796673366" expanded="true" signature="1171:1321" ph="{...}" />
-            <marker date="1545796673366" expanded="true" signature="1210:1303" ph="&lt;tr.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="1342:2157" ph="{...}" />
-            <marker date="1545796673366" expanded="true" signature="1443:2139" ph="{...}" />
-            <marker date="1545796673366" expanded="true" signature="1490:2117" ph="&lt;tr.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="1523:1626" ph="&lt;td.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="1655:1742" ph="&lt;td.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="1771:1862" ph="&lt;td.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="1891:1977" ph="&lt;td.../&gt;" />
-            <marker date="1545796673366" expanded="true" signature="2006:2087" ph="&lt;td.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="81:162" ph="@..." />
+            <marker date="1545801508109" expanded="true" signature="256:2053" ph="&lt;div.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="280:2046" ph="&lt;div.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="306:2035" ph="&lt;div.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="338:2020" ph="&lt;table.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="438:953" ph="&lt;thead.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="462:928" ph="&lt;tr.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="970:1999" ph="@..." />
+            <marker date="1545801508109" expanded="true" signature="1027:1177" ph="{...}" />
+            <marker date="1545801508109" expanded="true" signature="1066:1159" ph="&lt;tr.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="1198:1999" ph="{...}" />
+            <marker date="1545801508109" expanded="true" signature="1299:1981" ph="{...}" />
+            <marker date="1545801508109" expanded="true" signature="1346:1959" ph="&lt;tr.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="1379:1521" ph="&lt;td.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="1550:1671" ph="&lt;td.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="1700:1819" ph="&lt;td.../&gt;" />
+            <marker date="1545801508109" expanded="true" signature="1848:1929" ph="&lt;td.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CaseStudy/wwwroot/lib/bootstrap/dist/css/bootstrap-darkly.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CaseStudy/Views/Shared/_Layout.cshtml">
+    <entry file="file://$PROJECT_DIR$/CaseStudy/Controllers/SearchQueryController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding>
-            <marker date="1545796962171" expanded="true" signature="16:3385" ph="&lt;html.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="23:850" ph="&lt;head.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="191:388" ph="&lt;environment.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="393:842" ph="&lt;environment.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="851:3377" ph="&lt;body.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="862:1938" ph="&lt;nav.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="923:1927" ph="&lt;div.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="959:1473" ph="&lt;div.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="1003:1347" ph="&lt;button.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="1486:1912" ph="&lt;div.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="1541:1893" ph="&lt;ul.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="1990:2152" ph="&lt;div.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="2072:2141" ph="&lt;footer.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="2158:2412" ph="&lt;environment.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="2417:3321" ph="&lt;environment.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="2461:2809" ph="&lt;script.../&gt;" />
-            <marker date="1545796962171" expanded="true" signature="2818:3227" ph="&lt;script.../&gt;" />
+            <marker date="1545801408806" expanded="true" signature="6:88" ph="..." />
+            <marker date="1545801408806" expanded="true" signature="121:1035" ph="{...}" />
+            <marker date="1545801408806" expanded="true" signature="175:1033" ph="{...}" />
+            <marker date="1545801408806" expanded="true" signature="253:352" ph="{...}" />
+            <marker date="1545801408806" expanded="true" signature="441:801" ph="{...}" />
+            <marker date="1545801408806" expanded="true" signature="811:901" ph="/* GET SearchQuery/Results ... */" />
+            <marker date="1545801408806" expanded="true" signature="940:1000" ph="{...}" />
           </folding>
         </state>
       </provider>

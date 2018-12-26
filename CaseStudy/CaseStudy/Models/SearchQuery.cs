@@ -3,10 +3,10 @@ using System.Collections.Generic;
 
 namespace CaseStudy.Models
 {
+    // Model for the user search
     public class SearchQuery
     {
         public string SearchTerm { get; set; }
-        public int NumberOfClicks { get; set; }
         public string MediaType { get; set; }
 
         public SearchQuery()
@@ -16,8 +16,8 @@ namespace CaseStudy.Models
        
 
     }
-
     
+    // Class so that when JSON file gets called it maps correctly
     public class Result
     {
         public string wrapperType { get; set; }
@@ -61,7 +61,7 @@ namespace CaseStudy.Models
         public List<Result> Results { get; set; }
     }
     
-    
+    // Enum for the drop down list on search page
     public enum Media
     {
         All,
