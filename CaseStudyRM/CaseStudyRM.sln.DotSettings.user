@@ -1,2 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/IIS/SkipGenerateApplicationHostConfig/=04a49f85_002Dbb99_002D4dba_002D8342_002Dd12dbe0e8c24/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

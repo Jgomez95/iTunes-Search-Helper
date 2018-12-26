@@ -1,0 +1,57 @@
+@using CaseStudy.Models
+@model System.Threading.Tasks.Task<IEnumerable<Result>>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Search Results </h2>
+<hr />
+
+<div class="col-8">
+    <div class="row">
+        <div class="table-responsive">
+            <table class="table table-bordered table-condensed table-striped table-hover sortable" data-toggle="table" data-pagination="true" data-search="true">
+                <thead>
+                <tr class="secondary">
+                    <th class="col-sm-2" data-defaultsign="AZ">Artwork</th>
+                    <th class="col-sm-2" data-sortable="true" data-field="ArtistName" data-defaultsign="AZ">Artist</th>
+                    <th class="col-sm-3" data-sortable="true" data-field="CollectionName" data-defaultsign="AZ">Collection</th>
+                    <th class="col-sm-3" data-sortable="true" data-field="Track" data-defaultsign="AZ">Track</th>
+                    <th class="col-sm-2" data-sortable="true" data-field="Kind" data-defaultsign="AZ">Kind</th>
+                </tr>
+                </thead>
+                @if (@Model.Result == null || @Model.Result.Count() == 0)
+                {
+                    <tr>
+                        <td colspan="5">No Records found.</td>
+                    </tr>
+                }
+                else
+                {
+                    foreach (var item in @Model.Result.OrderBy(x => x.artistName))
+                    {
+                        <tr>
+                            <td>
+                                <img src="@item.artworkUrl100"/>
+                            </td>
+                            <td>
+                                @item.artistName
+                            </td>
+                            <td>
+                                @item.collectionName
+                            </td>
+                            <td>
+                                @item.trackName
+                            </td>
+                            <td>
+                                @item.kind
+                            </td>
+                        </tr>
+                    }
+                }
+            </table>
+        </div>
+    </div>
+</div>
