@@ -13,11 +13,50 @@ namespace CaseStudy.Models
         {
             SearchTerm = string.Empty;
         }
+<<<<<<< HEAD:CaseStudyRM/CaseStudyRM/Models/SearchQuery.cs
+        // Creates the url to call on the itunes api
+        public string urlBuilder()
+        {
+            string baseURL = "https://itunes.apple.com/search?term=";
+            string mediaString = MediaType;
+            string term = SearchTerm.Replace(" ", "+");
+            string entity = changeToEntity(mediaString);
+            string limit = "10";
+            
+            return baseURL + term + "&entity=" + entity + "&limit=" + limit;;
+        }
+
+        // Based on what the user selects in the media type drop down list, this function
+        // will change the type to the format that the url will accept
+        public string changeToEntity(string type)
+        {
+            switch (type)
+            {
+                case "Music":
+                    return "musicTrack";
+                case "Movie":
+                    return "movie";
+                case "Podcast":
+                    return "podcast";
+                case "Audiobook":
+                    return "audiobook";
+                default:
+                    return "allTrack";
+            }
+        }
+
+    }
+
+=======
        
 
     }
     
+<<<<<<< HEAD
     // Class so that when JSON file gets called it maps correctly
+=======
+>>>>>>> f7b79c46a0c5620f3da7d8851ab21f3824a4c974:CaseStudy/CaseStudy/Models/SearchQuery.cs
+>>>>>>> c99fed036cf925d87ab5fcc057a922e6030e4677
     public class Result
     {
         public string wrapperType { get; set; }
@@ -53,6 +92,7 @@ namespace CaseStudy.Models
         public bool isStreamable { get; set; }
         public string contentAdvisoryRating { get; set; }
         public string collectionArtistName { get; set; }
+<<<<<<< HEAD:CaseStudyRM/CaseStudyRM/Models/SearchQuery.cs
     }
 
     public class RootObject
@@ -60,6 +100,15 @@ namespace CaseStudy.Models
         public int resultCount { get; set; }
         public List<Result> Results { get; set; }
     }
+=======
+    }
+
+    public class RootObject
+    {
+        public int resultCount { get; set; }
+        public List<Result> Results { get; set; }
+    }
+>>>>>>> f7b79c46a0c5620f3da7d8851ab21f3824a4c974:CaseStudy/CaseStudy/Models/SearchQuery.cs
     
     // Enum for the drop down list on search page
     public enum Media

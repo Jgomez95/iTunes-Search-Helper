@@ -1,1 +1,8 @@
+# Ignore folder created by Rider
+.idea/
+
+# Ignore file created from Mac
 .DS_Store
+
+# Ignore folder
+CaseStudyRM/
