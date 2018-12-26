@@ -29,8 +29,8 @@ namespace CaseStudyRM.Controllers
             searchQuery.MediaType = Request.Form["MediaType"];
             
             var api = new ApiHelper();
-            //var searchResults = ApiHelper.Search(searchQuery.SearchTerm, searchQuery.MediaType);
-            var searchResults = ApiHelper.Search(searchQuery.MediaType, searchQuery.SearchTerm);
+            var searchResults = ApiHelper.Search("Kid Cudi", "Music");
+            //var searchResults = ApiHelper.Search(searchQuery.MediaType, searchQuery.SearchTerm);
             //ViewData.Add("SearchResults",searchResults.Result);
             return View("Results", searchResults);
            
