@@ -3,22 +3,16 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
-<<<<<<< HEAD:CaseStudyRM/CaseStudyRM/HelperClasses/ApiHelper.cs
-using CaseStudyRM.Models;
-=======
 using CaseStudy.Models;
->>>>>>> f7b79c46a0c5620f3da7d8851ab21f3824a4c974:CaseStudy/CaseStudy/HelperClasses/ApiHelper.cs
+
+using CaseStudy.Models;
 using Newtonsoft.Json;
 
 namespace CaseStudyRM.HelperClasses
 {
     public class ApiHelper
     {
-<<<<<<< HEAD:CaseStudyRM/CaseStudyRM/HelperClasses/ApiHelper.cs
         internal async static Task<IEnumerable<Result>> Search (string searchT, string mediaT)
-=======
-        internal static async Task<IEnumerable<Result>> Search (string searchT, string mediaT)
->>>>>>> f7b79c46a0c5620f3da7d8851ab21f3824a4c974:CaseStudy/CaseStudy/HelperClasses/ApiHelper.cs
         {
             var searchResults = new RootObject();
             HttpClient client = new HttpClient();
