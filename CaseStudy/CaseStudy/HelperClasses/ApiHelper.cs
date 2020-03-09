@@ -1,43 +1,68 @@
 using System;
+using System.Net;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
-using CaseStudy.Models;
-
-using CaseStudy.Models;
 using Newtonsoft.Json;
+using CaseStudy.Models;
 
 namespace CaseStudyRM.HelperClasses
 {
     public class ApiHelper
     {
-        internal async static Task<IEnumerable<Result>> Search (string searchT, string mediaT)
+        public async Task<List<Result>> Search (string searchTerm, string mediaType)
         {
             var searchResults = new RootObject();
-            HttpClient client = new HttpClient();
-            //client.BaseAddress = new Uri("https://itunes.apple.com/search?term=");
-            
-            var searchURL  = "https://itunes.apple.com/search?term=" + URLBuilder(mediaT, searchT);
-            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-            HttpResponseMessage response = client.GetAsync(searchURL).Result;
 
-            if (response.IsSuccessStatusCode)
+            // ClientHandler for local testing. Only to avoid certificate errors
+            HttpClientHandler clientHandler = new HttpClientHandler();
+            clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
+
+            using (var client = new HttpClient(clientHandler))
             {
-                Console.WriteLine("Successful call to itunes api");
-                searchResults = JsonConvert.DeserializeObject<RootObject>(response.Content.ReadAsStringAsync().Result);
-                
+                var searchURL = $"https://itunes.apple.com/search?term=" + URLBuilder(mediaType, searchTerm);
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+
+                try
+                {
+                    ServicePointManager.SecurityProtocol |= SecurityProtocolType.Tls12;
+                    HttpResponseMessage response = await client.GetAsync(searchURL);
+
+                    if (response.IsSuccessStatusCode)
+                    {
+                        Console.WriteLine("Successful call to itunes api");
+
+                        var objectToDeserialize = await response.Content.ReadAsStringAsync();
+
+                        searchResults = JsonConvert.DeserializeObject<RootObject>(objectToDeserialize);
+                    }
+
+                }
+                catch (ArgumentNullException e)
+                {
+                    throw new Exception(e.Message);
+                }
+                catch (HttpRequestException e)
+                {
+                    throw new Exception(e.Message);
+                }
+                catch (Exception e)
+                {
+                    throw new Exception(e.Message);
+                }
             }
-            else
+
+            foreach (var entry in searchResults.Results)
             {
-                Console.WriteLine("Error in API call");
+                entry.OriginalSearchName = searchTerm;
             }
 
             return searchResults.Results;
         }
     
         // Function to correctly format the url so the api can make the call
-        public static string URLBuilder(string MT, string ST )
+        public static string URLBuilder(string MT, string ST)
         {
             string mediaString = MT;
             string term = ST.ToLower();
@@ -45,8 +70,8 @@ namespace CaseStudyRM.HelperClasses
             string entity = toEntity(mediaString);
             // Limit to only 10 searches to minimize huge list
             string limit = "10";
-            
-            return term + "&entity=" + entity + "&limit=" + limit;;
+
+            return $"{term}&entity={entity}&limit={limit}";
         }
         
         // Changes to the media type to the correct format for the entity

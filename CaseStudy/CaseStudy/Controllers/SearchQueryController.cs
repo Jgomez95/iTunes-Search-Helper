@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using CaseStudy.Models;
 using CaseStudyRM.HelperClasses;
 using Microsoft.AspNetCore.Mvc;
@@ -20,7 +21,7 @@ namespace CaseStudy.Controllers
             searchQuery.MediaType = Request.Form["MediaType"];
             
             var api = new ApiHelper();
-            var searchResults = ApiHelper.Search(searchQuery.SearchTerm, searchQuery.MediaType);
+            var searchResults = Task.Run(async () => await api.Search(searchQuery.SearchTerm, searchQuery.MediaType));
             return View("Results", searchResults);
            
         }
@@ -29,7 +30,6 @@ namespace CaseStudy.Controllers
         // Only works properly when user has searched something
         public IActionResult Results()
         {
-            
             return View();
         }
         

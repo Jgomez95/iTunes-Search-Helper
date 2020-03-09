@@ -1,5 +1,5 @@
 @using CaseStudy.Models
-@model System.Threading.Tasks.Task<IEnumerable<Result>>
+@model System.Threading.Tasks.Task<List<Result>>
 
 @{
     ViewBag.Title = "Results";
@@ -7,7 +7,7 @@
 }
 
 <h2>Search Results </h2>
-<p>Album art and text will take you to the itunes link</p>
+<h3>Search Results for @Model.Result.First().OriginalSearchName</h3>
 <hr />
 
 <div class="col-8">

@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{6D679563-9803-4239-8113-7287DE981157}|Default">
+  <MonoDevelop.Ide.ItemProperties.CaseStudy PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CaseStudy/Properties/launchSettings.json">
+    <Files>
+      <File FileName="CaseStudy/Startup.cs" Line="44" Column="14" />
+      <File FileName="CaseStudy/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="CaseStudy/Controllers/SearchQueryController.cs" Line="18" Column="60" />
+      <File FileName="CaseStudy/HelperClasses/ApiHelper.cs" Line="62" Column="61" />
+      <File FileName="CaseStudy/Views/SearchQuery/Results.cshtml" Line="10" Column="67" />
+      <File FileName="CaseStudy/Views/SearchQuery/Search.cshtml" Line="1" Column="1" />
+      <File FileName="CaseStudy/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CaseStudy" expanded="True">
+            <Node name="CaseStudy" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="HelperClasses" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="SearchQuery" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
